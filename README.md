@@ -22,3 +22,9 @@ Atualmente, busco minha primeira experiência formal de trabalho na área de tec
  <a href="https://www.linkedin.com/in/mluizaguedes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:mluizaguedessilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
+## Meus Principais Conhecimentos
+
+Tenho grande interesse em desenvolvimento full-stack, área na qual venho focando a maior parte do meu tempo. Além disso, também tenho bastante curiosidade pela área de segurança da informação. Entre meus conhecimentos, os que mais se destacam são: 
+ 
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript) | ![REACT](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react) | ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb) | ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5) | ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3) |
+| --- | --- | --- | --- | --- | --- |
