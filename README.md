@@ -1,5 +1,8 @@
 # TG - Portfólio
 
+<img align="left" src="https://github.com/user-attachments/assets/905d254d-9c00-47b0-ba1b-e2f016d2eda4" alt="my-profile" width="250"/>
+
+
 Oie! Me chamo Maria Luiza Guedes da Silva e tenho 20 anos. Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos.
 
 Como cheguei até aqui? 
