@@ -1,21 +1,21 @@
-# TG - Portfólio
+# # Portfólio - Maria Luiza Guedes da Silva
 
 <img align="left" src="https://github.com/user-attachments/assets/905d254d-9c00-47b0-ba1b-e2f016d2eda4" alt="my-profile" width="250"/>
 
 
 Oie! Me chamo Maria Luiza Guedes da Silva e tenho 20 anos. Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos.
 
-Como cheguei até aqui? 
+Minha Jornada até Aqui
 
-No final do ensino fundamental, eu ainda não tinha certeza sobre qual carreira seguir. Em busca de me descobrir profissionalmente, optei por um curso técnico em Marketing integrado ao ensino médio na Etec. A experiência foi enriquecedora, mas com o tempo percebi que a área não combinava tanto com a minha personalidade.
+No final do ensino fundamental, eu ainda não tinha certeza sobre qual carreira seguir. Em busca de me descobrir profissionalmente, optei por um curso técnico em Marketing integrado ao ensino médio na Etec. A experiência foi enriquecedora e contribuiu para meu amadurecimento profissional, mas percebi que não era exatamente a área na qual eu me via atuando no futuro.
 
-Foi então que decidi mudar de direção e comecei a pesquisar sobre os cursos disponíveis na Fatec. Percebi que Análise e Desenvolvimento de Sistemas se encaixava perfeitamente com meu perfil — atenção aos detalhes, lógica e organização.
+Foi então que decidi mudar de direção e comecei a pesquisar sobre os cursos disponíveis na Fatec. Percebi que Análise e Desenvolvimento de Sistemas se encaixava muito bem ao meu perfil — atenção aos detalhes, lógica e organização.
 
-Durante a faculdade, tenho me dedicado à área de desenvolvimento web e mobile, com foco em linguagens como JavaScript e TypeScript e tecnologias como React. Também tenho tido oportunidade de trabalhar com banco de dados MySQL e MongoDB, e explorar recursos de redes, incluindo AWS e Linux.
+Durante a faculdade, tenho me dedicado à área de desenvolvimento web, com foco em linguagens como JavaScript e TypeScript e tecnologias como React. Também tenho tido oportunidade de trabalhar com banco de dados MySQL e MongoDB, e explorar recursos de redes, incluindo AWS e Linux.
 
 Tenho experiência prática em projetos utilizando metodologias ágeis, como Scrum e Kanban. Já atuei como Product Owner, Scrum Master e desenvolvedora (Dev Team), o que me proporcionou uma visão mais ampla e colaborativa dos processos de desenvolvimento.
 
-Atualmente, busco minha primeira experiência formal de trabalho na área de tecnologia. Acredito que tenho muito a contribuir, e também muito a aprender. Estou comprometida em evoluir constantemente minhas habilidades técnicas e interpessoais.
+Atualmente, busco minha primeira experiência formal de trabalho na área de tecnologia. Acredito que tenho muito a contribuir, e também muito a aprender. Estou comprometida em seguir evoluindo constantemente, tanto em habilidades técnicas quanto interpessoais.
 
 
 ## Contatos
@@ -75,9 +75,8 @@ Exercitei as seguintes hard skills durante esse projeto:
 * Bootstrap - Uso com autonomia.
 
 #### Soft Skills 
-Soft Skills
-Esse primeiro projeto do API foi um grande marco no meu desenvolvimento pessoal e profissional. Tive que sair da minha zona de conforto e desenvolver habilidades como proatividade e autoconfiança.
+Esse primeiro projeto do API foi um grande marco no meu desenvolvimento pessoal e profissional. Precisei sair da minha zona de conforto e trabalhar habilidades como proatividade e autoconfiança.
 
-No início, me sentia insegura para assumir tarefas de programação e preferia atividades de estudo e documentação. Com o tempo, entendi que o crescimento viria justamente dos desafios. Decidi me arriscar mais, estudar por conta própria e me envolver ativamente com o time.
+No início, sentia insegurança para assumir tarefas de programação, preferindo atividades de estudo e documentação. Com o tempo, entendi que o crescimento viria justamente dos desafios. 
 
-Passei a colaborar mais com a equipe, me disponibilizando para ajudar em tarefas diversas, contribuir com ideias de melhoria e até conduzir apresentações. Essa experiência foi essencial para desenvolver minha comunicação, trabalho em equipe e senso de responsabilidade.
+Comecei a me envolver mais ativamente, me disponibilizando para ajudar colegas em tarefas, propondo melhorias e até conduzindo apresentações. Essa experiência foi essencial para desenvolver minha comunicação, trabalho em equipe e senso de responsabilidade.
