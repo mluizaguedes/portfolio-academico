@@ -1,4 +1,4 @@
-# # Portfólio - Maria Luiza Guedes da Silva
+# Portfólio - Maria Luiza Guedes
 
 <img align="left" src="https://github.com/user-attachments/assets/905d254d-9c00-47b0-ba1b-e2f016d2eda4" alt="my-profile" width="250"/>
 
