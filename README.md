@@ -29,8 +29,13 @@ Atualmente, busco minha primeira experiência formal de trabalho na área de tec
 
 Tenho grande interesse em desenvolvimento full-stack, área na qual venho focando a maior parte do meu tempo. Além disso, também tenho bastante curiosidade pela área de segurança da informação. Entre meus conhecimentos, os que mais se destacam são: 
  
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript) | ![REACT](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react) | ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb) | ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5) | ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3) |
-| --- | --- | --- | --- | --- | --- |
+## Meus Principais Conhecimentos
+
+Tenho grande interesse em desenvolvimento full-stack, área na qual venho focando a maior parte do meu tempo. Além disso, também tenho bastante curiosidade pela área de segurança da informação. Entre meus conhecimentos, os que mais se destacam são:
+
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript) | ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react) | ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5) | ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3) |
+| --- | --- | --- | --- | --- |
+| ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python) | ![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk) | ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql) | ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb) | ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws) | 
 
 ## Meus Projetos
 
