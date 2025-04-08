@@ -5,7 +5,7 @@
 
 Oie! Me chamo Maria Luiza Guedes da Silva e tenho 20 anos. Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos.
 
-Minha Jornada até Aqui
+**Minha Jornada até Aqui**
 
 No final do ensino fundamental, eu ainda não tinha certeza sobre qual carreira seguir. Em busca de me descobrir profissionalmente, optei por um curso técnico em Marketing integrado ao ensino médio na Etec. A experiência foi enriquecedora e contribuiu para meu amadurecimento profissional, mas percebi que não era exatamente a área na qual eu me via atuando no futuro.
 
