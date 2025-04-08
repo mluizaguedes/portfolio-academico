@@ -72,15 +72,17 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **Editor de código fonte:** 🔷 VSCode.
  
 #### Contribuições Pessoais 
-Atuei como desenvolvedora no projeto, com foco na responsividade do site e na criação de conteúdo explicativo sobre o papel do Product Owner.
+Atuei como desenvolvedora front-end no projeto, com foco na acessibilidade e responsividade do site e na clareza do conteúdo.
 
-Durante o desenvolvimento, fui responsável por:
-- Melhorar a responsividade do site para diferentes dispositivos, ajustando layouts com CSS e Bootstrap para garantir uma experiência fluida tanto em desktop quanto em mobile;
+Entre minhas principais entregas, estão:
+- Estruturação e responsividade do site: fui responsável por adaptar o layout utilizando Bootstrap e CSS para garantir uma boa experiência de navegação em diferentes dispositivos e tamanhos de tela. Testei as páginas em celulares e monitores variados;
+- Melhoria da usabilidade e design visual: incluí ícones, ajustei paleta de cores e tipografias, apliquei contrastes adequados e organizei os elementos visuais pensando na experiência do usuário;
 - Adicionar elementos visuais como ícones e ilustrações explicativas que ajudaram a tornar o conteúdo mais atrativo e fácil de entender;
-- Ajustar a tipografia (tamanho de fontes, espaçamentos, alinhamentos) com foco na legibilidade e estética da interface;
-- Implementar o questionário de avaliação ao final da página da Equipe de Desenvolvimento, utilizando JavaScript para implementar a lógica de verificação das respostas, exibindo mensagens de acerto ou erro;
-- Criar a seção sobre Kanban na página de Ferramentas, incluindo explicações claras sobre o método, exemplos práticos de uso e sugestões de ferramentas como Trello e Jira, com logos clicáveis que redirecionam o usuário para os sites oficiais;
-- Participar ativamente nas decisões de layout e organização de conteúdo durante as sprints, oferecendo sugestões de melhorias com base na usabilidade.
+- Criação do conteúdo explicativo sobre metodologias ágeis: pesquisei e redigi os textos explicativos de forma didática, especialmente sobre Product Owner e Kanban, tornando o site mais informativo e educativo;
+- Desenvolvimento do quiz interativo: implementei a lógica do questionário final da página de Equipe de Desenvolvimento utilizando JavaScript. Esse recurso validava automaticamente as respostas e oferecia feedback visual ao usuário;
+- Integração de links e navegação entre páginas: cuidei da criação de links funcionais, como logos de ferramentas que redirecionam para sites externos, melhorando a interatividade e navegabilidade;
+- Acompanhamento e testes de qualidade: testei o sistema regularmente durante as sprints, identifiquei bugs de layout e sugeri ajustes que foram implementados para melhorar a performance;
+- Contribuí com sugestões de melhoria, ajudando a organizar a apresentação final e até mesmo conduzindo partes da demonstração do projeto para os professores e colegas;
  
 #### Hard Skills 
 Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
