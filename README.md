@@ -98,6 +98,8 @@ No início, sentia insegurança para assumir tarefas de programação, preferind
 
 Comecei a me envolver mais ativamente, me disponibilizando para ajudar colegas em tarefas, propondo melhorias e até conduzindo apresentações. Essa experiência foi essencial para desenvolver minha comunicação, trabalho em equipe e senso de responsabilidade.
 
+<video src="https://github.com/user-attachments/assets/1776adc3-9e18-42c6-8b43-cd75a83feab4" width="150" controls></video>
+
 </details>
 
 <span id="zari">
