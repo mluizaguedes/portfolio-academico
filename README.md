@@ -24,11 +24,6 @@ Atualmente, busco minha primeira experiência formal de trabalho na área de tec
 - 🌐 **LinkedIn:** www.linkedin.com/in/mluizaguedes
 - 💌 **E-mail:** mluizaguedessilva@gmail.com
 
- 
-## Meus Principais Conhecimentos
-
-Tenho grande interesse em desenvolvimento full-stack, área na qual venho focando a maior parte do meu tempo. Além disso, também tenho bastante curiosidade pela área de segurança da informação. Entre meus conhecimentos, os que mais se destacam são: 
- 
 ## Meus Principais Conhecimentos
 
 Tenho grande interesse em desenvolvimento full-stack, área na qual venho focando a maior parte do meu tempo. Além disso, também tenho bastante curiosidade pela área de segurança da informação. Entre meus conhecimentos, os que mais se destacam são:
@@ -79,16 +74,20 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 #### Contribuições Pessoais 
 Atuei como desenvolvedora no projeto, com foco na responsividade do site e na criação de conteúdo explicativo.
 
-Também fui responsável por:
-- Adicionar elementos visuais e ajustar fontes para melhorar a usabilidade;
-- Implementar o questionário de avaliação ao final da página da Equipe de Desenvolvimento, incluindo a lógica de validação para exibir se as respostas estavam corretas ou não;
-- Contribuir com a página de Ferramentas, desenvolvendo o conteúdo sobre a metodologia ágil Kanban, além de incluir exemplos práticos e recomendações de softwares com logos clicáveis que redirecionam para seus respectivos sites.
+Durante o desenvolvimento, fui responsável por:
+- Melhorar a responsividade do site para diferentes dispositivos, ajustando layouts com CSS e Bootstrap para garantir uma experiência fluida tanto em desktop quanto em mobile;
+- Adicionar elementos visuais como ícones e ilustrações explicativas que ajudaram a tornar o conteúdo mais atrativo e fácil de entender;
+- Ajustar a tipografia (tamanho de fontes, espaçamentos, alinhamentos) com foco na legibilidade e estética da interface;
+- Implementar o questionário de avaliação ao final da página da Equipe de Desenvolvimento, utilizando JavaScript para implementar a lógica de verificação das respostas, exibindo mensagens de acerto ou erro;
+- Criar a seção sobre Kanban na página de Ferramentas, incluindo explicações claras sobre o método, exemplos práticos de uso e sugestões de ferramentas como Trello e Jira, com logos clicáveis que redirecionam o usuário para os sites oficiais;
+- Participar ativamente nas decisões de layout e organização de conteúdo durante as sprints, oferecendo sugestões de melhorias com base na usabilidade.
  
 #### Hard Skills 
-Exercitei as seguintes hard skills durante esse projeto: 
+Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 * Python e Flask - Uso com ajuda; 
 * HTML e CSS - Uso com autonomia; 
-* Bootstrap - Uso com autonomia.
+* Bootstrap - Uso com autonomia;
+* JavaScript - Uso com autonomia.
 
 #### Soft Skills 
 Esse primeiro projeto do API foi um grande marco no meu desenvolvimento pessoal e profissional. Precisei sair da minha zona de conforto e trabalhar habilidades como proatividade e autoconfiança.
