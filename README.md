@@ -98,6 +98,8 @@ Comecei a me envolver mais ativamente, me disponibilizando para ajudar colegas e
 
 </details>
 
+<span id="zari">
+ 
 <details>
  <summary>
   ⭐ Assistente Zari
@@ -106,6 +108,8 @@ Comecei a me envolver mais ativamente, me disponibilizando para ajudar colegas e
  2023 - 2° semestre
 </details>
 
+<span id="dashboard">
+ 
 <details>
  <summary>
   ⭐ Dashboard Pro4Tech
@@ -114,6 +118,8 @@ Comecei a me envolver mais ativamente, me disponibilizando para ajudar colegas e
  2024 - 1° semestre
 </details>
 
+<span id="wecoleb">
+ 
 <details>
  <summary>
   ⭐ WE COLEB - JJM Log
@@ -121,6 +127,8 @@ Comecei a me envolver mais ativamente, me disponibilizando para ajudar colegas e
  </br>
  2024 - 2° semestre
 </details>
+
+<span id="reembolso">
 
 <details>
  <summary>
