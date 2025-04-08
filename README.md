@@ -1,4 +1,4 @@
-# Portfólio - Maria Luiza Guedes
+# Portfólio - Maria Luiza Guedes da Silva
 
 <img align="left" src="https://github.com/user-attachments/assets/905d254d-9c00-47b0-ba1b-e2f016d2eda4" alt="my-profile" width="250"/>
 
@@ -36,13 +36,24 @@ Tenho grande interesse em desenvolvimento full-stack, área na qual venho focand
 
 |   Projeto  |  Período  |    Parceiro    |
 | :---   | :---    | :---      |
-| <a href ="#techshool">Tech School</a>  | 2023 - 1° semestre  | FATEC - Antônio Egydio |
+| <a href ="#techshool">Tech School</a>  | 2023 - 1° SEM  | FATEC - Antônio Egydio |
+| <a href ="#zari">Assistente Zari</a>  | 2023 - 2° SEM  | FATEC - Giuliano Bertoti |
+| <a href ="#dashboard">Dashboard Pro4Tech</a>  | 2024 - 1° SEM  | Pro4Tech |
+| <a href ="#wecoleb">WE COLEB</a>  | 2024 - 2° SEM  | JJM Log |
+| <a href ="#reembolso">SistemaReembolso</a>  | 2025 - 1° SEM  | GSW Software |
 
 <br />
 
 <span id="techshool">
-   
-### ⭐ Tech School - 2023 - 1° semestre
+ 
+<details>
+  <summary>
+  ⭐ Tech School
+  </summary>
+
+</br>
+2023 - 1° semestre
+
 Esse projeto foi desenvolvido no primeiro semestre do curso, em parceria com o colaborador interno Antônio Egydio.
  
 O problema surgiu a partir da necessidade de uma empresa que queria adotar a metodologia ágil SCRUM, mas seus colaboradores ainda não tinham conhecimento suficiente sobre os conceitos, processos e práticas envolvidas.
@@ -80,3 +91,37 @@ Esse primeiro projeto do API foi um grande marco no meu desenvolvimento pessoal 
 No início, sentia insegurança para assumir tarefas de programação, preferindo atividades de estudo e documentação. Com o tempo, entendi que o crescimento viria justamente dos desafios. 
 
 Comecei a me envolver mais ativamente, me disponibilizando para ajudar colegas em tarefas, propondo melhorias e até conduzindo apresentações. Essa experiência foi essencial para desenvolver minha comunicação, trabalho em equipe e senso de responsabilidade.
+
+</details>
+
+<details>
+ <summary>
+  ⭐ Assistente Zari
+ </summary>
+ </br>
+ 2023 - 2° semestre
+</details>
+
+<details>
+ <summary>
+  ⭐ Dashboard Pro4Tech
+ </summary>
+ </br>
+ 2024 - 1° semestre
+</details>
+
+<details>
+ <summary>
+  ⭐ WE COLEB - JJM Log
+ </summary>
+ </br>
+ 2024 - 2° semestre
+</details>
+
+<details>
+ <summary>
+  ⭐ SistemaReembolso - GSW Software
+ </summary>
+ </br>
+ 2025 - 1° semestre
+</details>
