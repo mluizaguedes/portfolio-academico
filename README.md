@@ -52,7 +52,7 @@ Tenho grande interesse em desenvolvimento full-stack, área na qual venho focand
   </summary>
 
 </br>
-2023 - 1° semestre
+(2023 - 1° semestre)
 
 Esse projeto foi desenvolvido no primeiro semestre do curso, em parceria com o colaborador interno Antônio Egydio.
  
