@@ -72,7 +72,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **Editor de código fonte:** 🔷 VSCode.
  
 #### Contribuições Pessoais 
-Atuei como desenvolvedora no projeto, com foco na responsividade do site e na criação de conteúdo explicativo.
+Atuei como desenvolvedora no projeto, com foco na responsividade do site e na criação de conteúdo explicativo sobre o papel do Product Owner.
 
 Durante o desenvolvimento, fui responsável por:
 - Melhorar a responsividade do site para diferentes dispositivos, ajustando layouts com CSS e Bootstrap para garantir uma experiência fluida tanto em desktop quanto em mobile;
