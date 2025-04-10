@@ -37,22 +37,16 @@ Tenho grande interesse em desenvolvimento full-stack, área na qual venho focand
 |   Projeto  |  Período  |    Parceiro    |
 | :---   | :---    | :---      |
 | <a href ="#techshool">Tech School</a>  | 2023 - 1° SEM  | FATEC - Antônio Egydio |
+<!--  
 | <a href ="#zari">Assistente Zari</a>  | 2023 - 2° SEM  | FATEC - Giuliano Bertoti |
 | <a href ="#dashboard">Dashboard Pro4Tech</a>  | 2024 - 1° SEM  | Pro4Tech |
 | <a href ="#wecoleb">WE COLEB</a>  | 2024 - 2° SEM  | JJM Log |
-| <a href ="#reembolso">SistemaReembolso</a>  | 2025 - 1° SEM  | GSW Software |
+| <a href ="#reembolso">SistemaReembolso</a>  | 2025 - 1° SEM  | GSW Software | --> 
 
 <br />
-
 <span id="techshool">
- 
-<details>
-  <summary>
-  ⭐ Tech School
-  </summary>
 
-</br>
-(2023 - 1° semestre)
+ ### ⭐ Tech School - Primeiro Semestre (2023-1)
 
 Esse projeto foi desenvolvido no primeiro semestre do curso, em parceria com o colaborador interno Antônio Egydio.
  
@@ -98,10 +92,11 @@ No início, sentia insegurança para assumir tarefas de programação, preferind
 
 Comecei a me envolver mais ativamente, me disponibilizando para ajudar colegas em tarefas, propondo melhorias e até conduzindo apresentações. Essa experiência foi essencial para desenvolver minha comunicação, trabalho em equipe e senso de responsabilidade.
 
+<br />
+
 <video src="https://github.com/user-attachments/assets/1776adc3-9e18-42c6-8b43-cd75a83feab4" width="150" controls></video>
 
-</details>
-
+<!-- 
 <span id="zari">
  
 <details>
@@ -140,4 +135,4 @@ Comecei a me envolver mais ativamente, me disponibilizando para ajudar colegas e
  </summary>
  </br>
  2025 - 1° semestre
-</details>
+</details> -->
