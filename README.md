@@ -46,8 +46,12 @@ Tenho grande interesse em desenvolvimento full-stack, área na qual venho focand
 <br />
 <span id="techshool">
 
- ### ⭐ Tech School - Primeiro Semestre (2023-1)
+<details>
+ <summary>
+  ⭐ Tech School - Primeiro Semestre (2023-1)
+ </summary>
 
+<br />
 Esse projeto foi desenvolvido no primeiro semestre do curso, em parceria com o colaborador interno Antônio Egydio.
  
 O problema surgiu a partir da necessidade de uma empresa que queria adotar a metodologia ágil SCRUM, mas seus colaboradores ainda não tinham conhecimento suficiente sobre os conceitos, processos e práticas envolvidas.
@@ -95,6 +99,8 @@ Comecei a me envolver mais ativamente, me disponibilizando para ajudar colegas e
 <br />
 
 <video src="https://github.com/user-attachments/assets/1776adc3-9e18-42c6-8b43-cd75a83feab4" width="150" controls></video>
+
+</details>
 
 <!-- 
 <span id="zari">
