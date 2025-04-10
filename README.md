@@ -28,9 +28,25 @@ Atualmente, busco minha primeira experiência formal de trabalho na área de tec
 
 Tenho grande interesse em desenvolvimento full-stack, área na qual venho focando a maior parte do meu tempo. Além disso, também tenho bastante curiosidade pela área de segurança da informação. Entre meus conhecimentos, os que mais se destacam são:
 
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript) | ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react) | ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5) | ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3) |
-| --- | --- | --- | --- | --- |
-| ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python) | ![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk) | ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql) | ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb) | ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws) | 
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/react_native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1C1C.svg?style=for-the-badge&logo=expo&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
 
 ## Meus Projetos
 
