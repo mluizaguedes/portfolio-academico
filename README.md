@@ -114,6 +114,9 @@ Comecei a me envolver mais ativamente, me disponibilizando para ajudar colegas e
 
 <br />
 
+#### Acesse o site pelo seu computador ou celular!
+* Link do Projeto [TechSchool](https://techschool.pedrohenribeiro.com/)
+
 <video src="https://github.com/user-attachments/assets/1776adc3-9e18-42c6-8b43-cd75a83feab4" width="150" controls></video>
 
 </details>
