@@ -53,11 +53,10 @@ Tenho grande interesse em desenvolvimento full-stack, área na qual venho focand
 |   Projeto  |  Período  |    Parceiro    |
 | :---   | :---    | :---      |
 | <a href ="#techshool">Tech School</a>  | 2023 - 1° SEM  | FATEC - Antônio Egydio |
-<!--  
 | <a href ="#zari">Assistente Zari</a>  | 2023 - 2° SEM  | FATEC - Giuliano Bertoti |
 | <a href ="#dashboard">Dashboard Pro4Tech</a>  | 2024 - 1° SEM  | Pro4Tech |
 | <a href ="#wecoleb">WE COLEB</a>  | 2024 - 2° SEM  | JJM Log |
-| <a href ="#reembolso">SistemaReembolso</a>  | 2025 - 1° SEM  | GSW Software | --> 
+| <a href ="#reembolso">SistemaReembolso</a>  | 2025 - 1° SEM  | GSW Software |
 
 <br />
 <span id="techshool">
@@ -121,7 +120,6 @@ Comecei a me envolver mais ativamente, me disponibilizando para ajudar colegas e
 
 </details>
 
-<!-- 
 <span id="zari">
  
 <details>
@@ -160,4 +158,4 @@ Comecei a me envolver mais ativamente, me disponibilizando para ajudar colegas e
  </summary>
  </br>
  2025 - 1° semestre
-</details> -->
+</details>
