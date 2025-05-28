@@ -79,12 +79,15 @@ Solução: desenvolvemos um sistema web com o objetivo de explicar, de forma cla
 
 #### Tecnologias Utilizadas 
 As seguintes tecnologias foram utilizadas nesse projeto: 
-* **Linguagens de programação:** 🐍 Python + 🟨 JavaScript;
-* **Frameworks:** 🧪 Flask e 🧰 Bootstrap;
-* **Linguagem de marcação e estilo:** 📝 HTML + 🎨 CSS;
-* **Ferramenta de design:** 🖼️ Figma;
-* **Ferramenta para gestão de tarefas:** 🧩 Trello;
-* **Editor de código fonte:** 🔷 VSCode.
+* **🐍 Python:** Linguagem de programação utilizada para a lógica do sistema e criação das rotas;
+* **🟨 JavaScript:** Linguagem de programação utilizada em funcionalidades interativas - modo escuro, modais, botões, validações e questionários;
+* **🧪 Flask:** Framework utilizado para o backend, rotas e estruturação do layout com Python;
+* **🧰 Bootstrap:** Framework com componentes visuais prontos;
+* **📝 HTML:** Linguagem de marcação utilizada para a estruturação do conteúdo do site;
+* **🎨 CSS:** Estilização do layout e responsividade;
+* **🖼️ Figma:** Ferramenta de design para o protótipo do site;
+* **🧩 Trello:** Ferramenta para gestão de tarefas do projeto;
+* **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
  
 #### Contribuições Pessoais 
 Atuei como desenvolvedora front-end no projeto, com foco na acessibilidade e responsividade do site e na clareza do conteúdo.
