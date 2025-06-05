@@ -1,7 +1,6 @@
 # Portfólio - Maria Luiza Guedes da Silva
 
-<img align="left" src="https://github.com/user-attachments/assets/905d254d-9c00-47b0-ba1b-e2f016d2eda4" alt="my-profile" width="250"/>
-
+<img align="left" src="https://github.com/user-attachments/assets/a569f4e4-412a-483f-8e99-dee316e6b20d" alt="my-profile" width="250"/>
 
 Oie! Me chamo Maria Luiza Guedes da Silva e tenho 20 anos. Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos.
 
@@ -110,19 +109,22 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 * JavaScript - Uso com autonomia.
 
 #### Soft Skills 
-Esse primeiro projeto do API foi um grande marco no meu desenvolvimento pessoal e profissional. Precisei sair da minha zona de conforto e trabalhar habilidades como proatividade e autoconfiança.
 
-No início, sentia insegurança para assumir tarefas de programação, preferindo atividades de estudo e documentação. Com o tempo, entendi que o crescimento viria justamente dos desafios. 
+Esse primeiro projeto da API foi um grande marco no meu desenvolvimento pessoal e profissional. Precisei sair da minha zona de conforto e trabalhar habilidades como proatividade e autoconfiança, que se tornaram fundamentais para o meu crescimento na área.
+</br>
 
-Comecei a me envolver mais ativamente, me disponibilizando para ajudar colegas em tarefas, propondo melhorias e até conduzindo apresentações. Essa experiência foi essencial para desenvolver minha comunicação, trabalho em equipe e senso de responsabilidade.
+- Proatividade e comunicação no trabalho em equipe
 
-<br />
+> Desenvolvi uma postura proativa no time. Sempre que eu finalizava minhas tarefas, me colocava à disposição no grupo da equipe para ajudar os meus colegas — sem precisar ser solicitada. Além disso, busquei formas de contribuir com o projeto, por exemplo, meus colegas pediam a opinião da equipe sobre o layout, cores e conteúdo do site, e eu dava sugestões de melhoria. Também valorizei muito a comunicação dentro do time: sempre respondia as mensagens no grupo e deixava todos informados sobre o andamento das minhas atividades. Eu entendi meu papel na equipe, o que evidenciou minhas habilidades de colaboração e comprometimento com o resultado coletivo.
 
-#### Acesse o site pelo seu computador ou celular!
-* Link do Projeto [TechSchool](https://techschool.pedrohenribeiro.com/)
+- Autoconfiança
+
+> No início do projeto, senti bastante insegurança em assumir tarefas de programação, por ser meu primeiro contato com a área, preferindo atividades de estudo e documentação. Com o tempo, entendi que o meu crescimento viria justamente dos desafios técnicos. Então, assumi o compromisso de mudar minha postura e comecei a aplicar, na prática, os conhecimentos que estava adquirindo. Me propus, por exemplo, a trabalhar no layout e na responsividade do site, além de implementar a lógica de funcionamento do quiz. Sempre que surgiam dúvidas, procurava meus colegas com humildade e abertura para aprender. À medida que via minha evolução, fui ganhando segurança para assumir tarefas cada vez mais complexas nos próximos projetos.
 
 <video src="https://github.com/user-attachments/assets/1776adc3-9e18-42c6-8b43-cd75a83feab4" width="150" controls></video>
+* [Acesse o site pelo seu computador ou celular!](https://techschool.pedrohenribeiro.com/)
 
+</br>
 </details>
 
 <span id="zari">
