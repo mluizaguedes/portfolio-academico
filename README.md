@@ -278,7 +278,7 @@ Nesse projeto, precisei tomar decisões e me adaptar a mudanças ao longo do cam
 <br />
 Esse projeto foi desenvolvido no quarto semestre do curso, em parceria com a empresa de logística JJM Log.
  
-O problema surgiu a partir da dificuldade que a enfrentava em gerenciar seus processos internos: muitos fluxos eram manuais, havia uso excessivo de ferramentas desconectadas e a comunicação entre os departamentos era limitada. Isso comprometia a eficiência e a visibilidade das operações.
+O problema surgiu a partir da dificuldade que a empresa enfrentava em gerenciar seus processos internos: muitos fluxos eram manuais, havia uso excessivo de ferramentas desconectadas e a comunicação entre os departamentos era limitada. Isso comprometia a eficiência e a visibilidade das operações.
 
 Solução: desenvolvemos um sistema web completo, com regras de negócio complexas e hospedado em ambiente de produção (com deploy). O foco principal foi facilitar os fluxos de trabalho e promover a colaboração entre equipes. A solução automatizou tarefas que antes eram feitas manualmente, oferecendo à empresa uma visão centralizada de suas demandas e atividades em tempo real.
  
@@ -291,7 +291,7 @@ O projeto envolveu o uso de diversas tecnologias modernas, tanto no frontend qua
 * **🗄️ MySQL:** Banco de dados relacional usado para armazenar informações e garantir integridade dos dados;
 * **⚛️ React:** Biblioteca JavaScript utilizada para construir a interface com componentes reutilizáveis e interativos;
 * **🌿 NodeJS:** Plataforma utilizada no desenvolvimento da API RESTful para consumo dos dados da aplicação;
-* **📝 HTML + 🎨 CSS:** Estruturação e estilização de componentes com foco em responsividade.
+* **📝 HTML + 🎨 CSS:** Estruturação e estilização de componentes com foco em responsividade;
 * **🖼️ Figma:** Ferramenta de design para o protótipo do site;
 * **🧩 Trello:** Ferramenta para gestão de tarefas do projeto;
 * **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
