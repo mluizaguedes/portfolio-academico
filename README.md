@@ -155,7 +155,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 #### Contribuições Pessoais 
 Atuei como Scrum Master e desenvolvedora, conciliando tarefas técnicas com a liderança dos processos ágeis da equipe.
 
-Minhas principais entregas foram:
+Minhas principais contribuições estão:
 - Coordenação ágil da equipe: como Scrum Master, conduzi as dailys, planejei as sprints e acompanhei o progresso no Trello, incentivando uma rotina colaborativa e produtiva;
 - Comunicação com stakeholders: representei a equipe nas reuniões semanais com o professor orientador (M2), elaborando resumos claros e objetivos do andamento do projeto;
 - Gestão de repositório GitHub: colaborei com a Product Owner para garantir que a documentação no GitHub refletisse corretamente o progresso do projeto;
@@ -216,7 +216,7 @@ Solução: desenvolvemos uma aplicação web que facilita a análise de vendas p
 #### Tecnologias Utilizadas 
 As seguintes tecnologias foram utilizadas nesse projeto: 
 * **🟦 TypeScript:** Linguagem principal no desenvolvimento do backend e frontend, garantindo maior segurança e organização do código;
-* **🟨 JavaScript:** Utilizado principalmente na manipulação de dados, integrações e scripts da aplicação;
+* **🟨 JavaScript:** Linguagem de programação utilizada principalmente na manipulação de dados, integrações e scripts da aplicação;
 * **🗄️ MySQL:** Banco de dados relacional usado para armazenar informações de usuários, vendas, produtos e comissões;
 * **⚛️ React:** Biblioteca JavaScript utilizada para construir a interface do usuário com componentes reutilizáveis;
 * **🌿 NodeJS:** Plataforma utilizada no desenvolvimento da API RESTful para consumo dos dados da aplicação;
@@ -272,10 +272,62 @@ Nesse projeto, precisei tomar decisões e me adaptar a mudanças ao longo do cam
  
 <details>
  <summary>
-  ⭐ WE COLEB - JJM Log
+  ⭐ WE COLEB - JJM Log - Quarto Semestre (2024-2)
  </summary>
- </br>
- 2024 - 2° semestre
+ 
+<br />
+Esse projeto foi desenvolvido no quarto semestre do curso, em parceria com a empresa de logística JJM Log.
+ 
+O problema surgiu a partir da dificuldade que a enfrentava em gerenciar seus processos internos: muitos fluxos eram manuais, havia uso excessivo de ferramentas desconectadas e a comunicação entre os departamentos era limitada. Isso comprometia a eficiência e a visibilidade das operações.
+
+Solução: desenvolvemos um sistema web completo, com regras de negócio complexas e hospedado em ambiente de produção (com deploy). O foco principal foi facilitar os fluxos de trabalho e promover a colaboração entre equipes. A solução automatizou tarefas que antes eram feitas manualmente, oferecendo à empresa uma visão centralizada de suas demandas e atividades em tempo real.
+ 
+[Repositório GitHub - WE-COLEB-JJM-Log](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log) 
+
+#### Tecnologias Utilizadas 
+O projeto envolveu o uso de diversas tecnologias modernas, tanto no frontend quanto no backend:
+* **🟦 TypeScript:** Linguagem principal no desenvolvimento do backend e frontend, garantindo maior segurança e organização do código;
+* **🟨 JavaScript:** Linguagem de programação usada em lógicas específicas de manipulação de dados, integração e scripts;
+* **🗄️ MySQL:** Banco de dados relacional usado para armazenar informações e garantir integridade dos dados;
+* **⚛️ React:** Biblioteca JavaScript utilizada para construir a interface com componentes reutilizáveis e interativos;
+* **🌿 NodeJS:** Plataforma utilizada no desenvolvimento da API RESTful para consumo dos dados da aplicação;
+* **📝 HTML + 🎨 CSS:** Estruturação e estilização de componentes com foco em responsividade.
+* **🖼️ Figma:** Ferramenta de design para o protótipo do site;
+* **🧩 Trello:** Ferramenta para gestão de tarefas do projeto;
+* **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
+ 
+#### Contribuições Pessoais 
+Atuei como desenvolvedora front-end no projeto, com foco em entregar uma interface funcional e visualmente agradável. Minha participação foi ativa tanto no desenvolvimento das telas quanto nas integrações com o backend.
+
+Entre minhas principais entregas, estão:
+- Criação da base visual e estrutural do projeto: montei o layout inicial da aplicação e configurei todas as rotas principais, garantindo consistência visual e organização entre os componentes;
+- Sidebar completa e responsiva: implementei toda a navegação lateral da aplicação, pensando na usabilidade e garantindo adaptação para diferentes tamanhos de tela;
+- Integração com o backend: conectei o sistema de acesso ao portal de funcionários, garantindo que cada usuário só tivesse acesso aos próprios documentos com base no seu id;
+- Funcionalidade de upload de documentos (PDFs): implementei o sistema para envio de arquivos de holerites, atestados e registros de ponto, permitindo que os funcionários façam uploads diretamente pela plataforma;
+- Listagem inteligente de documentos: desenvolvi a tela de visualização de documentos dos funcionários com filtros por tipo (holerite, atestado ou ponto) e data, além da funcionalidade de exclusão;
+- Card dinâmico no fluxograma: adicionei um componente com as informações do motorista diretamente na visualização de entregas, facilitando a identificação rápida durante o acompanhamento de rotas;
+- Aprimoramento de UX/UI: fiz melhorias no contraste de cores, na hierarquia visual dos elementos e na inclusão de ícones — sempre seguindo boas práticas de acessibilidade e design centrado no usuário;
+- Modelo conceitual do banco: fui responsável por criar e manter atualizado o diagrama conceitual do banco de dados, acompanhando as mudanças feitas ao longo do projeto;
+- Documentação técnica: revisei e atualizei o guia de instalação do projeto, tornando o processo mais fácil para novos desenvolvedores;
+- Responsividade: garanti que a aplicação funcionasse bem em diferentes dispositivos, especialmente no sidebar e nas listas de clientes e documentos;
+- Qualidade e testes contínuos: participei dos testes durante as sprints, identifiquei bugs e propus ajustes que melhoraram o desempenho e a experiência do usuário final.
+ 
+#### Hard Skills 
+Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
+* JavaScript - Uso com autonomia; 
+* Typescript - Uso com autonomia; 
+* MySQL - Uso com ajuda;
+* React - Uso com autonomia;
+* NodeJS - Uso com autonomia;
+* HTML e CSS - Uso com autonomia;
+
+#### Soft Skills 
+
+</br>
+
+<video src="https://github.com/user-attachments/assets/ddea8a5f-4293-4174-9702-b6e122f60dfb" width="150" controls></video>
+
+</br>
 </details>
 
 <span id="reembolso">
