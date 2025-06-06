@@ -1,6 +1,6 @@
 # Portfólio - Maria Luiza Guedes da Silva
 
-<img align="left" src="https://github.com/user-attachments/assets/a569f4e4-412a-483f-8e99-dee316e6b20d" alt="my-profile" width="250"/>
+<img align="left" src="https://github.com/user-attachments/assets/39d4b6a6-18d9-4267-bae7-9d80ab4c82a6" alt="my-profile" width="250"/>
 
 Oie! Me chamo Maria Luiza Guedes da Silva e tenho 20 anos. Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos.
 
@@ -344,9 +344,9 @@ O problema surgiu a partir da preocupação da empresa em trazer mais praticidad
 
 Solução: desenvolvemos uma solução completa composta por dois sistemas integrados:
 
-- Um aplicativo móvel voltado para os funcionários, com uma interface amigável e prática para o registro de despesas reembolsáveis, incluindo upload de comprovantes.
+- Um aplicativo móvel voltado para os funcionários, com uma interface prática e amigável para o registro de despesas reembolsáveis, incluindo anexo de comprovantes.
 
-- Um sistema web corporativo voltado para os gerentes, onde é possível acompanhar, revisar e aprovar solicitações de reembolso em tempo real.
+- Um sistema web corporativo exclusivo para gerentes, onde é possível acompanhar, revisar e aprovar solicitações de reembolso em tempo real.
  
 [Repositório GitHub - SistemaReembolso-GSW-Software](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software) 
 
@@ -362,17 +362,45 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **🤖 Android:** O app foi desenvolvido exclusivamente para a plataforma Android, com APK disponibilizado;
 * **💅 Expo:** Framework para facilitar o desenvolvimento, testes e build do app em React Native;
 * **🖼️ Figma:** Ferramenta utilizada para o design e prototipação das telas do sistema e aplicativo;
-* **🧩 Jira:** Utilizada para gestão ágil de tarefas, acompanhamento das sprints e organização do time;
+* **📋 Jira:** Utilizada para gestão ágil de tarefas, acompanhamento das sprints e organização do time;
 * **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
  
 #### Contribuições Pessoais 
-Atuei como Product Owner e desenvolvedora, com foco nas necessidades do cliente e na experiência do usuário
+Atuei como Product Owner e desenvolvedora, com foco em alinhar as funcionalidades às necessidades do cliente e garantir uma ótima experiência do usuário.
 
-Entre minhas principais responsabilidades, estavam:
-- 
+Como Product Owner:
+- Fui responsável por definir o MVP (Produto Mínimo Viável), priorizando funcionalidades e garantindo o alinhamento com as necessidades reais da empresa parceira;
+- Criei e mantive o backlog, redigi histórias de usuário detalhadas e conduzi reuniões de planejamento com clareza e visão estratégica;
+- Trabalhei lado a lado com a Scrum Master para definição e monitoramento do burndown;
+- Mantive a equipe alinhada aos objetivos do projeto e assegurei que todos os requisitos do cliente estivessem sendo cumpridos;
+- Apresentei as entregas ao cliente em cada sprint, liderando a coleta e a incorporação de feedbacks;
+- Cuidei da documentação técnica e funcional no GitHub, garantindo rastreabilidade e transparência.
+
+Como desenvolvedora no aplicativo (mobile):
+- Estruturei a base do projeto no Expo, organizei as rotas principais e criei a navegação com tabbar totalmente personalizada e intuitiva;
+- Modelei o backend e implementei toda a funcionalidade de pacotes de despesas, permitindo o agrupamento de despesas e o envio do reembolso de forma coletiva;
+- Desenvolvi a tela de pacotes, com filtros por status (rascunho, aguardando aprovação, recusado, aprovado, parcialmente aprovado) e por projeto selecionado;
+- Criei os cards de pacotes com agrupamento de despesas por categoria, ordenação por data e feedback visual da situação do pacote;
+- Adicionei a opção de criação rápida de pacotes no momento do registro de despesas, com foco total na usabilidade;
+- Programei autorefresh e pull refresh em todas as telas críticas para garantir atualizações em tempo real;
+- Adicionei mensagens contextuais e amigáveis para estados vazios e erros, com timers de exibição para melhorar a experiência;
+- Desenvolvi lógica para exibir a barra de valor em vermelho quando os valores ultrapassam o limite estipulado pelo gerente;
+- Implementei a autenticação em duas etapas com envio de código por e-mail, além da opção de ativar/desativar o recurso no perfil;
+- Fiz refinamentos visuais e ajustes de layout para tornar o aplicativo intuitivo, moderno e acessível;
+- Destaquei visualmente os projetos ativos e encerrados na home;
+- Desenvolvi a tela de histórico com resumo financeiro do usuário, incluindo totais por status de aprovação.
+
+Como desenvolvedora no sistema corporativo (web):
+- Desenvolvi a autenticação com dois fatores exclusiva para gerentes, com lógica de verificação de código enviada por e-mail;
+- Implementei persistência de sessão com uso de AsyncStorage, mantendo o gerente logado mesmo após recarregar a página;
+- Adicionei avisos visuais e confirmações de ação em todos os pontos críticos do sistema;
+- Protegi as rotas para garantir que apenas usuários autenticados e autorizados acessassem o sistema;
+- Desenvolvi a funcionalidade para encerramento de projetos com conexão da alteração no app;
+- Modelei a interface para destacar claramente projetos ativos x encerrados;
+- Trabalhei para garantir que as atualizações fossem refletidas em tempo real, promovendo fluidez e confiabilidade no uso.
  
 #### Hard Skills 
-Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
+Durante esse projeto, desenvolvi e consolidei diversas competências técnicas, incluindo:
 * Typescript - Uso com autonomia; 
 * React e React Native - Uso com autonomia;
 * NodeJS - Uso com autonomia;
