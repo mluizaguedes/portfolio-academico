@@ -360,7 +360,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **🐬 MySQL:** Utilizado especificamente para armazenar arquivos (comprovantes de despesas em PDF/imagem e fotos de perfil) de forma segura e organizada;
 * **📱 Android Studio:** Ambiente utilizado para gerar o APK e testar o aplicativo nos dispositivos Android;
 * **🤖 Android:** O app foi desenvolvido exclusivamente para a plataforma Android, com APK disponibilizado;
-* **💅 Expo:** Framework para facilitar o desenvolvimento, testes e build do app em React Native;
+* **🚀 Expo:** Framework para facilitar o desenvolvimento, testes e build do app em React Native;
 * **🖼️ Figma:** Ferramenta utilizada para o design e prototipação das telas do sistema e aplicativo;
 * **📋 Jira:** Utilizada para gestão ágil de tarefas, acompanhamento das sprints e organização do time;
 * **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
@@ -368,15 +368,15 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 #### Contribuições Pessoais 
 Atuei como Product Owner e desenvolvedora, com foco em alinhar as funcionalidades às necessidades do cliente e garantir uma ótima experiência do usuário.
 
-Como Product Owner:
-- Mínimo Produto Viável: Fui responsável por definir o MVP (Produto Mínimo Viável), priorizando funcionalidades e garantindo o alinhamento com as necessidades reais da empresa parceira;
+Entre minhas principais responsabilidades como Product Owner, estão:
+- Definição do MVP: Fui responsável por definir o MVP (Produto Mínimo Viável), priorizando funcionalidades essenciais e garantindo o alinhamento com as necessidades reais da empresa parceira;
 - Gestão de Backlog: Criei e mantive o backlog, redigi histórias de usuário detalhadas e conduzi reuniões de planejamento com clareza e visão estratégica;
-- Acompanhamento de Sprint: Trabalhei lado a lado com a Scrum Master para definição e monitoramento do burndown;
+- Facilitação de sprints: Trabalhei lado a lado com a Scrum Master para definição e monitoramento do burndown e alinhamento entre time e cliente;
 - Alinhamento de Equipe: Mantive a equipe alinhada aos objetivos do projeto e assegurei que todos os requisitos do cliente estivessem sendo cumpridos;
-- Apresentações ao Cliente: Apresentei as entregas ao cliente em cada sprint, liderando a coleta e a incorporação de feedbacks;
-- Documentação: Cuidei da documentação técnica e funcional no GitHub, garantindo rastreabilidade e transparência.
+- Apresentações ao Cliente: Apresentei as entregas ao cliente em cada sprint, liderando a coleta de feedbacks e ajustando o sistema conforme necessário;
+- Documentação: Cuidei da documentação técnica e funcional no GitHub, garantindo acessibilidade e transparência.
 
-Como desenvolvedora no aplicativo (mobile):
+Entre minhas principais entregas como desenvolvedora no aplicativo (mobile), estão:
 - Base do Projeto: Estruturei a base do projeto no Expo, organizei as rotas principais e criei a navegação com tabbar totalmente personalizada e intuitiva;
 - Pacotes de Despesas: Modelei o backend e implementei toda a funcionalidade de pacotes de despesas, permitindo o agrupamento de despesas e o envio do reembolso de forma coletiva;
 - Tela de Pacotes: Desenvolvi a tela de pacotes, com filtros por status (rascunho, aguardando aprovação, recusado, aprovado, parcialmente aprovado) e por projeto selecionado;
@@ -390,7 +390,7 @@ Como desenvolvedora no aplicativo (mobile):
 - Status de Projetos: Destaquei visualmente os projetos ativos e encerrados na home;
 - Resumo na Tela de Histórico: Desenvolvi o resumo financeiro do usuário na tela de histórico, incluindo totais por status de aprovação.
 
-Como desenvolvedora no sistema corporativo (web):
+Entre minhas principais entregas como desenvolvedora no sistema corporativo (web), estão :
 - Login com Autorização por Papel: Desenvolvi o login completo com frontend e backend, permitindo que apenas usuários com role: gerente tivessem acesso ao sistema corporativo;
 - Autenticação para Gerentes: Desenvolvi a autenticação com dois fatores para gerentes, com lógica de verificação de código enviado por e-mail;
 - Persistência de Sessão: Implementei persistência de sessão com uso de AsyncStorage, mantendo o gerente logado mesmo após recarregar a página;
