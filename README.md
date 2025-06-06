@@ -99,14 +99,14 @@ Entre minhas principais entregas, estão:
 - Desenvolvimento do quiz interativo: implementei a lógica do questionário final da página de Equipe de Desenvolvimento utilizando JavaScript. Esse recurso validava automaticamente as respostas e oferecia feedback visual ao usuário;
 - Integração de links e navegação entre páginas: cuidei da criação de links funcionais, como logos de ferramentas que redirecionam para sites externos, melhorando a interatividade e navegabilidade;
 - Acompanhamento e testes de qualidade: testei o sistema regularmente durante as sprints, identifiquei bugs de layout e sugeri ajustes que foram implementados para melhorar a performance;
-- Contribuí com sugestões de melhoria, ajudando a organizar a apresentação final e até mesmo conduzindo partes da demonstração do projeto para os professores e colegas;
+- Contribuí com sugestões de melhoria, ajudando a organizar a apresentação final e até mesmo conduzindo partes da demonstração do projeto para os professores e colegas.
  
 #### Hard Skills 
 Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
-* Python e Flask - Uso com ajuda; 
-* HTML e CSS - Uso com autonomia; 
+* Python e Flask - Uso com ajuda;
+* JavaScript - Uso com ajuda.
 * Bootstrap - Uso com autonomia;
-* JavaScript - Uso com autonomia.
+* HTML e CSS - Uso com autonomia.
 
 #### Soft Skills 
 
@@ -168,7 +168,8 @@ Minhas principais contribuições estão:
 Durante esse projeto, pratiquei as seguintes tecnologias:
 * Java e Gradle - Uso com ajuda; 
 * MySQL - Uso com ajuda;
-* Trello - Uso com autonomia.
+* Trello - Uso com autonomia;
+* Eclipse - Uso com ajuda.
 
 #### Soft Skills 
 
@@ -229,19 +230,19 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 Atuei como desenvolvedora front-end, com foco na criação de uma interface bonita, interativa e funcional. Tive participação em diversas partes do projeto, desde telas mais simples até integrações com o backend.
 
 Entre minhas principais entregas, estão:
-- Sidebar completo e funcional: implementei toda a navegação lateral da aplicação, garantindo que fosse responsiva e intuitiva.
-- Melhoria de usabilidade e design visual: ajustei cores, contraste, ícones e organização dos elementos para melhorar a experiência do usuário, com base em boas práticas de UX/UI.
-- Tela de vendedores: criei uma tabela interativa com as últimas vendas de cada vendedor, incluindo funcionalidades como exclusão e redirecionamento para o perfil individual.
-- Tela de clientes: desenvolvi uma tela completa com campos editáveis (nome, CPF/CNPJ, segmentação, tipo de venda etc.) e a funcionalidade de adicionar novos clientes e vendas. 
-- Tela de produtos: exibição de todos os produtos com possibilidade de edição, adição e conexão com o banco de dados — tudo funcionando em tempo real.
-- Gráfico de vendas gerais: atuei tanto no front quanto no back, criando o gráfico que mostra a performance de vendas no perfil de cada vendedor.
-- Upload de foto de perfil: implementei o upload de imagens para o perfil dos vendedores, cuidando da integração com o backend e da exibição correta na interface.
-- Acompanhamento e testes de qualidade: testei o sistema regularmente durante as sprints, identifiquei bugs de layout e sugeri ajustes que foram implementados para melhorar a performance;
+- Sidebar completo e funcional: implementei toda a navegação lateral da aplicação, garantindo que fosse responsiva e intuitiva;
+- Melhoria de usabilidade e design visual: ajustei cores, contraste, ícones e organização dos elementos para melhorar a experiência do usuário, com base em boas práticas de UX/UI;
+- Tela de vendedores: criei uma tabela interativa com as últimas vendas de cada vendedor, incluindo funcionalidades como exclusão e redirecionamento para o perfil individual;
+- Tela de clientes: desenvolvi uma tela completa com campos editáveis (nome, CPF/CNPJ, segmentação, tipo de venda etc.) e a funcionalidade de adicionar novos clientes e vendas; 
+- Tela de produtos: exibição de todos os produtos com possibilidade de edição, adição e conexão com o banco de dados — tudo funcionando em tempo real;
+- Gráfico de vendas gerais: atuei tanto no front quanto no back, criando o gráfico que mostra a performance de vendas no perfil de cada vendedor;
+- Upload de foto de perfil: implementei o upload de imagens para o perfil dos vendedores, cuidando da integração com o backend e da exibição correta na interface;
+- Acompanhamento e testes de qualidade: testei o sistema regularmente durante as sprints, identifiquei bugs de layout e sugeri ajustes que foram implementados para melhorar a performance.
  
 #### Hard Skills 
 Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
-* JavaScript - Uso com ajuda; 
 * Typescript - Uso com autonomia; 
+* JavaScript - Uso com ajuda; 
 * MySQL - Uso com ajuda;
 * React - Uso com autonomia;
 * NodeJS - Uso com autonomia;
@@ -314,17 +315,18 @@ Entre minhas principais entregas, estão:
  
 #### Hard Skills 
 Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
-* JavaScript - Uso com ajuda; 
 * Typescript - Uso com autonomia; 
+* JavaScript - Uso com ajuda; 
 * MySQL - Uso com ajuda;
 * React - Uso com autonomia;
 * NodeJS - Uso com autonomia;
-* HTML e CSS - Uso com autonomia;
+* HTML e CSS - Uso com autonomia.
 
 #### Soft Skills 
 
 </br>
 
+#### Vídeo do projeto
 <video src="https://github.com/user-attachments/assets/ddea8a5f-4293-4174-9702-b6e122f60dfb" width="150" controls></video>
 
 </br>
@@ -434,6 +436,7 @@ No primeiro dia da primeira sprint, já cheguei com o backlog completo, contendo
 
 > Sempre estive próxima do time, ajudando ativamente nos momentos de dificuldade. Um exemplo foi quando uma colega enfrentou problemas em uma funcionalidade que deveria funcionar corretamente, mas apresentava erros inexplicáveis. Como eu já havia feito algo semelhante, ela pediu ajuda. Nos reunimos em uma call, analisamos o código juntas e resolvemos o problema colaborativamente. Essa troca de conhecimento não só resolveu o erro, como fortaleceu o espírito de equipe. Além disso, mantivemos uma cultura de discussão saudável de ideias, onde todos opinavam sobre as melhores soluções para cada parte do sistema. Essa colaboração direta foi essencial para que conseguíssemos entregar as funcionalidades previstas dentro do prazo.
 
+#### Vídeo do projeto
 <video src="https://github.com/user-attachments/assets/a475174d-3e06-47bd-8e2b-1b541b7cef08" width="150" controls></video>
 
 </br>
