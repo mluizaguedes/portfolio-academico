@@ -248,7 +248,7 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 * SCSS - Uso com autonomia.
 
 #### Soft Skills 
-
+Nesse projeto, precisei tomar decisões e me adaptar a mudanças ao longo do caminho. Aqui estão algumas situações reais que marcaram minha evolução:
 </br>
 
 - Entrega de resultados
