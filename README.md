@@ -74,7 +74,7 @@ O problema surgiu a partir da necessidade de uma empresa que queria adotar a met
  
 Solução: desenvolvemos um sistema web com o objetivo de explicar, de forma clara e prática, os principais elementos do SCRUM: papéis, artefatos, eventos e habilidades necessárias. O foco foi criar uma interface intuitiva, com uma navegação simples e sem excesso de informação, facilitando a compreensão e a aplicação dos conceitos por parte dos usuários em projetos futuros.
  
-[GIT - Projeto-de-API-1-Semestre](https://github.com/juliagonzalezmoreira/Projeto-de-API-1-Semestre/tree/main) 
+[Repositório GitHub - Projeto-de-API-1-Semestre](https://github.com/juliagonzalezmoreira/Projeto-de-API-1-Semestre/tree/main) 
 
 #### Tecnologias Utilizadas 
 As seguintes tecnologias foram utilizadas nesse projeto: 
@@ -141,7 +141,7 @@ O problema surgiu a partir da necessidade dos usuários em localizar informaçõ
 
 Solução: desenvolvemos um chatbot inteligente (assistente virtual) com a capacidade de analisar documentos e responder perguntas relacionadas ao conteúdo. O objetivo principal foi otimizar a navegação pelas informações, tornando o acesso mais direto e eficiente para o usuário.
  
-[Zari-documentation](https://github.com/Equipe-Meta-Code/Zari-documentation) 
+[Repositório GitHub - Zari-documentation](https://github.com/Equipe-Meta-Code/Zari-documentation) 
 
 #### Tecnologias Utilizadas 
 As seguintes tecnologias foram utilizadas nesse projeto: 
@@ -196,10 +196,72 @@ Esse projeto também me desafiou a sair da zona de conforto e aprimorar diversas
  
 <details>
  <summary>
-  ⭐ Dashboard Pro4Tech
+  ⭐ Dashboard Pro4Tech - Terceiro Semestre (2024-1)
  </summary>
- </br>
- 2024 - 1° semestre
+
+<br />
+Esse projeto foi desenvolvido no terceiro semestre do curso, em parceria com a empresa de tecnologia Pro4Tech.
+ 
+O problema surgiu a partir da dificuldade que a empresa enfrentava para gerenciar e interpretar grandes volumes de dados de vendas, que estavam sendo armazenados em planilhas Excel. A visualização de informações importantes era demorada, limitada e ineficiente para tomada de decisões estratégicas.
+
+Solução: desenvolvemos uma aplicação web que facilita a análise de vendas por meio de dashboards dinâmicos e intuitivos. A aplicação importa os dados diretamente de arquivos Excel e os exibe em gráficos interativos e tabelas segmentadas, com suporte a: 
+
+- Filtros personalizados por período, produto, vendedor e cliente;
+- Cálculos automáticos de comissões;
+- Visualizações específicas para gerentes e funcionários;
+- Interface responsiva e de fácil uso.
+ 
+[Repositório GitHub - Dashboard-Pro4Tech](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech) 
+
+#### Tecnologias Utilizadas 
+As seguintes tecnologias foram utilizadas nesse projeto: 
+* **🟦 TypeScript:** Linguagem principal no desenvolvimento do backend e frontend, garantindo maior segurança e organização do código;
+* **🟨 JavaScript:** Utilizado principalmente na manipulação de dados, integrações e scripts da aplicação;
+* **🗄️ MySQL:** Banco de dados relacional usado para armazenar informações de usuários, vendas, produtos e comissões;
+* **⚛️ React:** Biblioteca JavaScript utilizada para construir a interface do usuário com componentes reutilizáveis;
+* **🌿 NodeJS:** Plataforma utilizada no desenvolvimento da API RESTful para consumo dos dados da aplicação;
+* **💅 SCSS:** Pré-processador CSS adotado para estilização modular e responsiva do layout;
+* **🖼️ Figma:** Ferramenta de design para o protótipo do site;
+* **🧩 Trello:** Ferramenta para gestão de tarefas do projeto;
+* **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
+ 
+#### Contribuições Pessoais 
+Atuei como desenvolvedora front-end no projeto, com foco na interface interativa e responsiva.
+
+Entre minhas principais entregas, estão:
+- Implementação do sidebar;
+- Melhoria da usabilidade e design visual: incluí ícones, ajustei paleta de cores e tipografias, apliquei contrastes adequados e organizei os elementos visuais pensando na experiência do usuário;
+- Adicionar elementos visuais como ícones e ilustrações explicativas que ajudaram a tornar o conteúdo mais atrativo e fácil de entender;
+- Criação do conteúdo explicativo sobre metodologias ágeis: pesquisei e redigi os textos explicativos de forma didática, especialmente sobre Product Owner e Kanban, tornando o site mais informativo e educativo;
+- Desenvolvimento do quiz interativo: implementei a lógica do questionário final da página de Equipe de Desenvolvimento utilizando JavaScript. Esse recurso validava automaticamente as respostas e oferecia feedback visual ao usuário;
+- Integração de links e navegação entre páginas: cuidei da criação de links funcionais, como logos de ferramentas que redirecionam para sites externos, melhorando a interatividade e navegabilidade;
+- Acompanhamento e testes de qualidade: testei o sistema regularmente durante as sprints, identifiquei bugs de layout e sugeri ajustes que foram implementados para melhorar a performance;
+- Contribuí com sugestões de melhoria, ajudando a organizar a apresentação final e até mesmo conduzindo partes da demonstração do projeto para os professores e colegas;
+ 
+#### Hard Skills 
+Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
+* Python e Flask - Uso com ajuda; 
+* HTML e CSS - Uso com autonomia; 
+* Bootstrap - Uso com autonomia;
+* JavaScript - Uso com autonomia.
+
+#### Soft Skills 
+
+Esse primeiro projeto da API foi um grande marco no meu desenvolvimento pessoal e profissional. Precisei sair da minha zona de conforto e trabalhar habilidades como proatividade e autoconfiança, que se tornaram fundamentais para o meu crescimento na área.
+</br>
+
+- Proatividade e comunicação no trabalho em equipe
+
+> Desenvolvi uma postura proativa no time. Sempre que eu finalizava minhas tarefas, me colocava à disposição no grupo da equipe para ajudar os meus colegas — sem precisar ser solicitada. Além disso, busquei formas de contribuir com o projeto, por exemplo, meus colegas pediam a opinião da equipe sobre o layout, cores e conteúdo do site, e eu dava sugestões de melhoria. Também valorizei muito a comunicação dentro do time: sempre respondia as mensagens no grupo e deixava todos informados sobre o andamento das minhas atividades. Eu entendi meu papel na equipe, o que evidenciou minhas habilidades de colaboração e comprometimento com o resultado coletivo.
+
+- Autoconfiança
+
+> No início do projeto, senti bastante insegurança em assumir tarefas de programação, por ser meu primeiro contato com a área, preferindo atividades de estudo e documentação. Com o tempo, entendi que o meu crescimento viria justamente dos desafios técnicos. Então, assumi o compromisso de mudar minha postura e comecei a aplicar, na prática, os conhecimentos que estava adquirindo. Me propus, por exemplo, a trabalhar no layout e na responsividade do site, além de implementar a lógica de funcionamento do quiz. Sempre que surgiam dúvidas, procurava meus colegas com humildade e abertura para aprender. À medida que via minha evolução, fui ganhando segurança para assumir tarefas cada vez mais complexas nos próximos projetos.
+
+<video src="https://github.com/user-attachments/assets/1776adc3-9e18-42c6-8b43-cd75a83feab4" width="150" controls></video>
+* [Acesse o site pelo seu computador ou celular!](https://techschool.pedrohenribeiro.com/)
+
+</br>
 </details>
 
 <span id="wecoleb">
