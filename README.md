@@ -408,23 +408,29 @@ Durante esse projeto, desenvolvi e consolidei diversas competências técnicas, 
 * MongoDB - Uso com autonomia;
 * MySQL - Uso com ajuda;
 * Android Studio - Uso com ajuda;
-* Expo - Uso com autonomia;
+* Expo - Uso com autonomia.
 
 #### Soft Skills 
+Esse projeto me proporcionou a oportunidade de desenvolver várias competências interpessoais essenciais, com destaque para a responsabilidade, proatividade e colaboração com minha equipe.
 
 </br>
 
-- Entrega de resultados
+- Responsabilidade e organização
 
-> 
+> Durante o projeto, atuei como Product Owner, o que exigiu um alto nível de organização e comprometimento desde o início.
+No primeiro dia da primeira sprint, já cheguei com o backlog completo, contendo user stories claras, definição de prioridades e o escopo do MVP. Conduzi a reunião de planejamento, apresentando o que deveria ser feito em cada sprint, com clareza e visão estratégica. Quando surgiram dúvidas, não hesitei em entrar em contato com o cliente imediatamente para buscar respostas, garantindo que a equipe tivesse sempre um direcionamento claro. Além disso, como nesse semestre tivemos apenas 3 sprints (ao invés de 4), planejei cuidadosamente o escopo de cada entrega para que conseguíssemos gerar valor real a cada iteração, sem sobrecarregar o time. Mesmo como PO, não me eximi de responsabilidades técnicas: fui responsável por criar a base do projeto no VSCode, o que permitiu que todos os colegas pudessem iniciar suas tarefas. Concluí essa entrega no primeiro dia, pois sabia que toda a equipe dependia dela.
 
-- Trabalho em equipe
+- Proatividade na resolução de problemas
 
-> 
+> Após a primeira review com o cliente, recebemos um feedback importante: o fluxo de envio das despesas, uma por uma, tornava o processo muito trabalhoso para os gerentes. Isso exigia uma mudança significativa no modelo de dados e no fluxo do sistema. Me comprometi, então, a encontrar uma solução. Implementei a ideia de "pacotes de despesas": as despesas continuariam sendo registradas individualmente, mas o reembolso seria solicitado em grupo, por meio do envio de um pacote contendo vários IDs de despesas. Essa mudança exigiu reformulação no backend, frontend e integração entre os dois sistemas — e mesmo assim, foi bem recebida por toda a equipe e pelo cliente.
 
-- Flexibilidade
+- Foco em Entregas com Qualidade
   
-> 
+> Sempre tive como prioridade a entrega de valor real com qualidade. Para isso, mantive a documentação no GitHub clara, organizada e visualmente agradável — facilitando a compreensão por qualquer membro da equipe ou externo. No desenvolvimento, me preocupei com a clareza do código: escrevi comentários explicativos, segui boas práticas e me coloquei no lugar de outro desenvolvedor que poderia dar manutenção posteriormente. Um exemplo marcante foi na implementação da autenticação em dois fatores (2FA). Por diversas vezes, a funcionalidade parava de funcionar corretamente após commits de colegas. Eu testava constantemente, identificava os problemas e reaplicava a lógica de forma persistente. Mesmo corrigindo o mesmo ponto mais de uma vez, mantive o compromisso de entregar um sistema funcional, estável e sem falhas.
+
+- Colaboração e trabalho em equipe
+
+> Sempre estive próxima do time, ajudando ativamente nos momentos de dificuldade. Um exemplo foi quando uma colega enfrentou problemas em uma funcionalidade que deveria funcionar corretamente, mas apresentava erros inexplicáveis. Como eu já havia feito algo semelhante, ela pediu ajuda. Nos reunimos em uma call, analisamos o código juntas e resolvemos o problema colaborativamente. Essa troca de conhecimento não só resolveu o erro, como fortaleceu o espírito de equipe. Além disso, mantivemos uma cultura de discussão saudável de ideias, onde todos opinavam sobre as melhores soluções para cada parte do sistema. Essa colaboração direta foi essencial para que conseguíssemos entregar as funcionalidades previstas dentro do prazo.
 
 <video src="https://github.com/user-attachments/assets/a475174d-3e06-47bd-8e2b-1b541b7cef08" width="150" controls></video>
 
