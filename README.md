@@ -115,11 +115,13 @@ Esse primeiro projeto da API foi um grande marco no meu desenvolvimento pessoal 
 
 - Proatividade e comunicação no trabalho em equipe
 
-> Desenvolvi uma postura proativa no time. Sempre que eu finalizava minhas tarefas, me colocava à disposição no grupo da equipe para ajudar os meus colegas — sem precisar ser solicitada. Além disso, busquei formas de contribuir com o projeto, por exemplo, meus colegas pediam a opinião da equipe sobre o layout, cores e conteúdo do site, e eu dava sugestões de melhoria. Também valorizei muito a comunicação dentro do time: sempre respondia as mensagens no grupo e deixava todos informados sobre o andamento das minhas atividades. Eu entendi meu papel na equipe, o que evidenciou minhas habilidades de colaboração e comprometimento com o resultado coletivo.
+> Durante o projeto, adotei uma postura proativa e colaborativa com o time. Sempre que finalizava minhas tarefas, me colocava à disposição no grupo para auxiliar os colegas — mesmo sem ser solicitada. Busquei contribuir ativamente nas decisões de design e conteúdo: por exemplo, sugeri ajustes no tamanho de texto e imagens, recomendei o uso de imagens com links externos para ilustrar tecnologias citadas, e opinei sobre a quantidade ideal de exemplos por seção, visando uma leitura mais fluida e objetiva.
+
+> Valorizei a comunicação contínua: sempre respondia as mensagens no grupo e mantinha o time informado sobre o andamento das minhas tarefas, compartilhava se eu estava com dificuldades, se estava estudando algo novo ou se havia concluído alguma entrega. Essa transparência fortaleceu a integração da equipe e refletiu meu comprometimento com o resultado coletivo. Ao longo das sprints, compreendi melhor meu papel dentro da equipe e atuei com responsabilidade, empatia e colaboração.
 
 - Autoconfiança
 
-> No início do projeto, senti bastante insegurança em assumir tarefas de programação, por ser meu primeiro contato com a área, preferindo atividades de estudo e documentação. Com o tempo, entendi que o meu crescimento viria justamente dos desafios técnicos. Então, assumi o compromisso de mudar minha postura e comecei a aplicar, na prática, os conhecimentos que estava adquirindo. Me propus, por exemplo, a trabalhar no layout e na responsividade do site, além de implementar a lógica de funcionamento do quiz. Sempre que surgiam dúvidas, procurava meus colegas com humildade e abertura para aprender. À medida que via minha evolução, fui ganhando segurança para assumir tarefas cada vez mais complexas nos próximos projetos.
+> No início do projeto, senti bastante insegurança em assumir tarefas de programação, por ser meu primeiro contato com a área, preferindo atividades de estudo e documentação. Com o tempo, entendi que o meu crescimento viria justamente dos desafios técnicos. Então, assumi o compromisso de mudar minha postura e comecei a aplicar, na prática, os conhecimentos que estava adquirindo. Me propus a trabalhar na responsividade do site usando CSS e a implementar a lógica do quiz interativo com JavaScript. E fui capaz de entregar as funcionalidades completas e funcionais. Sempre que surgiam dúvidas, procurava meus colegas com humildade e abertura para aprender. À medida que via minha evolução, fui ganhando segurança para assumir tarefas cada vez mais complexas nos próximos projetos.
 
 <video src="https://github.com/user-attachments/assets/1776adc3-9e18-42c6-8b43-cd75a83feab4" width="150" controls></video>
 * [Acesse o site pelo seu computador ou celular!](https://techschool.pedrohenribeiro.com/)
@@ -137,7 +139,7 @@ Esse primeiro projeto da API foi um grande marco no meu desenvolvimento pessoal 
 <br />
 Esse projeto foi desenvolvido no segundo semestre do curso, em parceria com o colaborador interno Giuliano Bertoti.
  
-O problema surgiu a partir da necessidade dos usuários em localizar informações específicas dentro de documentos extensos de forma mais rápida e prática.
+O problema surgiu a partir da necessidade dos usuários em localizar informações específicas dentro de documentos extensos de forma rápida e prática.
 
 Solução: desenvolvemos um chatbot inteligente (assistente virtual) com a capacidade de analisar documentos e responder perguntas relacionadas ao conteúdo. O objetivo principal foi otimizar a navegação pelas informações, tornando o acesso mais direto e eficiente para o usuário.
  
@@ -155,8 +157,8 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 #### Contribuições Pessoais 
 Atuei como Scrum Master e desenvolvedora, conciliando tarefas técnicas com a liderança dos processos ágeis da equipe.
 
-Minhas principais contribuições estão:
-- Coordenação ágil da equipe: como Scrum Master, conduzi as *dailys*, planejei as sprints e acompanhei o progresso no Trello, incentivando uma rotina colaborativa e produtiva;
+Entre minhas principais contribuições estão:
+- Coordenação ágil da equipe: como Scrum Master, conduzi as *dailys*, planejei as sprints e acompanhei o progresso no Trello, incentivando uma rotina colaborativa;
 - Comunicação com stakeholders: representei a equipe nas reuniões semanais com o professor orientador (M2), elaborando resumos claros e objetivos do andamento do projeto;
 - Gestão de repositório GitHub: colaborei com a Product Owner para garantir que a documentação no GitHub refletisse corretamente o progresso do projeto;
 - Modelagem UML: fui responsável por criar e atualizar o diagrama de classes, mantendo a arquitetura clara e consistente com as mudanças no código;
@@ -178,11 +180,14 @@ Esse projeto também me desafiou a sair da zona de conforto e aprimorar diversas
 
 - Comunicação clara e objetiva
 
-> Fui responsável pelos processos ágeis da equipe. Então, durante o projeto, eu organizava e conduzia as dailys e apresentações de sprint. Buscava sempre alinhar os prazos e garantir que todos estivessem na mesma página. Comunicava semanalmente o andamento da equipe ao professor orientador M2 e repassava avisos e orientações técnicas de forma clara, mantendo o time sempre atualizado. Valorizo a comunicação como base para o bom funcionamento de qualquer equipe.
+> Fui responsável pelos processos ágeis da equipe. Então, durante o projeto, eu organizava e conduzia as *dailys* - que eram objetivas, com foco em manter todos atualizados.
+> Outra forma de desenvolver essa habiidade foi por me preparar para as apresentações das sprints - por exemplo, cuidei da criação de slides objetivos e também testava a aplicação com antecedência para garantir que tudo funcionasse corretamente durante as demonstrações. Eu não decorava falas, permitindo que as apresentações fluissem de forma natural. Em algumas ocasiões, o professor fazia perguntas tecnicas durante a apresentação, e eu conseguia responder demonstrando conhecimento tanto sobre o funcionamento do produto quanto sobre as entregas dos meus colegas.
+> Também mantinha uma comunicação constante com o professor orientador (M2), repassando semanalmente o andamento do projeto e garantindo que a equipe estivesse sempre bem informada e alinhada. Acredito que a comunicação é uma das principais bases para o bom funcionamento de qualquer equipe.
 
 - Responsabilidade e organização
 
-> Meu papel exigia comprometimento com as rotinas do time. Mantive o Trello atualizado com as tarefas de cada sprint, conduzi dailys e retrospectivas e documentei decisões importantes para garantir o alinhamento. Como Scrum Master, também era minha responsabilidade acompanhar o progresso individual de cada colega, porque eu precisava reportar ao professor como a equipe estava lidando com o projeto — o que exigia atenção constante, escuta ativa e um bom senso de responsabilidade e organização.
+> Meu papel exigia comprometimento com as rotinas e a organização do time. Mantive o Trello atualizado com as tarefas para cada sprint, conduzi as dailys e retrospectivas e registrei decisões importantes, como, por exemplo, a definição do tema do chatbot — para manter o alinhamento entre todos.
+> Também acompanhei o progresso individual de cada colega, oferecendo suporte quando necessário e reportando o desempenho coletivo de forma precisa ao professor orientador. Para isso, eu levava o gráfico de burndown com as informações atualizadas e explicava o andamento da sprint com base nos dados. Esse acompanhamento exigia atenção constante, escuta ativa e um bom senso de responsabilidade e organização.
 
 - Proatividade na resolução de problemas
 
@@ -205,12 +210,7 @@ Esse projeto foi desenvolvido no terceiro semestre do curso, em parceria com a e
  
 O problema surgiu a partir da dificuldade da empresa em gerenciar e interpretar grandes volumes de dados de vendas, que estavam sendo armazenados em planilhas Excel. A visualização de informações importantes era demorada, limitada e ineficiente para tomada de decisões estratégicas.
 
-Solução: desenvolvemos uma aplicação web que facilita a análise de vendas por meio de dashboards dinâmicos e intuitivos. A aplicação importa os dados diretamente de arquivos Excel e os exibe em gráficos interativos e tabelas segmentadas, com suporte a: 
-
-- Filtros personalizados por período, produto, vendedor e cliente;
-- Cálculos automáticos de comissões;
-- Visualizações específicas para gerentes e funcionários;
-- Interface responsiva e de fácil uso.
+Solução: desenvolvemos uma aplicação web que facilita a análise de vendas por meio de dashboards dinâmicos. A aplicação importa os dados de arquivos Excel e os exibe em gráficos e tabelas interativas, com suporte a: Filtros personalizados por período, produto, vendedor e cliente; cálculos automáticos de comissões; visualizações específicas para gerentes e funcionários; e interface responsiva e de fácil uso.
  
 [Repositório GitHub - Dashboard-Pro4Tech](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech) 
 
@@ -249,20 +249,20 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 * SCSS - Uso com autonomia.
 
 #### Soft Skills 
-Nesse projeto, precisei tomar decisões e me adaptar a mudanças ao longo do caminho. Aqui estão algumas situações reais que marcaram minha evolução:
+Nesse projeto, precisei tomar decisões e me adaptar a mudanças ao longo do caminho. Algumas situações reais que marcaram minha evolução:
 </br>
 
 - Entrega de resultados
 
-> Todas as tarefas que ficaram sob minha responsabilidade foram entregues com qualidade e capricho — tanto na funcionalidade quanto na parte visual. Sempre escrevi códigos organizados e comentados, pensando em facilitar o entendimento para quem fosse mexer depois de mim. Me preocupei em escrever códigos organizados e bem comentados, pensando em facilitar o entendimento para quem fosse mexer depois de mim.
+> Todas as tarefas que ficaram sob minha responsabilidade foram entregues com qualidade e capricho — tanto na parte funcional quanto na parte visual. Por exemplo, eu escrevi códigos organizados, legíveis e comentados, pensando na manutenção futura e em facilitar o entendimento para outros membros da equipe. Esse cuidado refletiu meu comprometimento em entregar não apenas o que foi solicitado, mas com excelência técnica e preocupação com a colaboração.
 
 - Trabalho em equipe
 
-> A home da aplicação era uma das tarefas mais complexas, e eu a desenvolvi junto com uma colega. A gente teve que alinhar o uso do sidebar, calendário, gráficos, layout e comportamento dos componentes. Dividimos bem o trabalho, nos comunicamos com clareza e conseguimos entregar tudo no prazo — seguindo fielmente o protótipo criado por outra pessoa.
+> A home da aplicação era uma das tarefas mais complexas, e eu a desenvolvi junto com uma colega. Tivemos que integrar diversos elementos, como sidebar, calendário, gráficos e layout dos componentes. Mostramos um bom trabalho em equipe ao dividir bem as responsabilidades e manter uma comunicação constante - por exemplo, durante as aulas, conversávamos sobre o progresso de cada uma e víamos se precisávamos de ajuda - e assim, conseguimos concluir tudo antes do prazo. Além disso, nós seguimos fielmente o protótipo criado por outros colegas, respeitando cores, tamanhos, componentes e funcionalidades. O resultado final impressionou nossos colegas, e foi um exemplo prático de colaboração eficiente e respeito ao trabalho dos outros membros do time.
 
 - Flexibilidade
   
-> No início do projeto, começamos com abordagens diferentes: eu estava usando JavaScript e CSS, enquanto minha colega começou com TypeScript e SCSS. Quando vi que a estrutura dela estava mais organizada e alinhada com as boas práticas, parei, analisei e tomei a decisão de refazer o que eu tinha feito — me adaptei ao que fazia mais sentido para o projeto. Foi um exemplo claro de que, para mim, o resultado do time vem antes do apego ao próprio código.
+> No início do projeto, começamos com abordagens diferentes: eu estava usando JavaScript e CSS, enquanto minha colega começou com TypeScript e SCSS. Quando vi que a estrutura dela estava mais organizada e alinhada com as boas práticas, parei, analisei e tomei a decisão de refazer o que eu tinha feito — me adaptei ao que fazia mais sentido para o projeto. Essa decisão demonstrou meu foco no resultado coletivo e minha abertura para aprender e evoluir com o time.
 
 <video src="https://github.com/user-attachments/assets/aa396f3c-ee40-4ae3-ab7b-e323c8a6bbcc" width="150" controls></video>
 
@@ -323,6 +323,18 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 * HTML e CSS - Uso com autonomia.
 
 #### Soft Skills 
+
+- Organização e atenção a detalhes
+  
+> Logo no início do projeto, assumi a responsabilidade de estruturar a base visual da aplicação. Para garantir consistência e clareza no desenvolvimento, organizei cuidadosamente as pastas, defini os caminhos das rotas principais e montei o layout inicial do sistema. Um exemplo claro dessa atenção aos detalhes foi a criação da página “Page Not Found”. Embora não fosse uma funcionalidade exigida de início, identifiquei que ao acessar rotas não configuradas, o sistema ficava em branco, o que poderia confundir o usuário. Antecipando esse problema, desenvolvi uma página de erro amigável, melhorando a navegação e demonstrando zelo pela experiência final.
+
+- Comprometimento com a qualidade
+  
+> Durante o desenvolvimento da tela de visualização de documentos, atuei em parceria com um colega para entregar uma solução com qualidade. Além de permitir o filtro por tipo, usuário e data, também implementamos as funcionalidades de upload e exclusão de arquivos. Em cada parte do processo, eu mantive o foco em garantir entregas completas e refinadas, cuidando não apenas do funcionamento técnico, mas também do visual intuitivo da interface. Isso refletiu meu comprometimento em entregar um produto que fosse realmente útil e agradável de usar.
+
+- Colaboração
+  
+> Minha postura ao longo do projeto foi totalmente colaborativa, tanto nas tarefas de front-end quanto nas integrações com o back-end. Evitei me limitar apenas às áreas de maior familiaridade e aceitei trabalhar em funcionalidades que contribuíssem para o sucesso do projeto. Um exemplo claro disso foi quando surgiu a necessidade de implementar o upload de arquivos, algo que exigia também lógica no back-end — uma área em que eu ainda estava me desenvolvendo. Mesmo assim, me coloquei à disposição da equipe, estudei o necessário e entreguei a funcionalidade completa. Essa atitude reforçou minha disposição para aprender, colaborar e assumir responsabilidades quando o time precisava.
 
 </br>
 
