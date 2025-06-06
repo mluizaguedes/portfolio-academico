@@ -104,7 +104,7 @@ Entre minhas principais entregas, estão:
 #### Hard Skills 
 Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 * Python e Flask - Uso com ajuda;
-* JavaScript - Uso com ajuda.
+* JavaScript - Uso com autonomia.
 * Bootstrap - Uso com autonomia;
 * HTML e CSS - Uso com autonomia.
 
@@ -242,7 +242,7 @@ Entre minhas principais entregas, estão:
 #### Hard Skills 
 Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 * Typescript - Uso com autonomia; 
-* JavaScript - Uso com ajuda; 
+* JavaScript - Uso com autonomia; 
 * MySQL - Uso com ajuda;
 * React - Uso com autonomia;
 * NodeJS - Uso com autonomia;
@@ -316,7 +316,7 @@ Entre minhas principais entregas, estão:
 #### Hard Skills 
 Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 * Typescript - Uso com autonomia; 
-* JavaScript - Uso com ajuda; 
+* JavaScript - Uso com autonomia; 
 * MySQL - Uso com ajuda;
 * React - Uso com autonomia;
 * NodeJS - Uso com autonomia;
