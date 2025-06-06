@@ -147,7 +147,7 @@ Solução: desenvolvemos um chatbot inteligente (assistente virtual) com a capac
 As seguintes tecnologias foram utilizadas nesse projeto: 
 * **☕ Java:** Linguagem principal utilizada no desenvolvimento da lógica do chatbot;
 * **📦 Gradle:** Ferramenta de automação de build e gerenciamento de dependências no projeto Java;
-* **🗄️ MySQL:** Banco de dados para armazenar interações e informações extraídas dos documentos;
+* **🐬 MySQL:** Banco de dados para armazenar interações e informações extraídas dos documentos;
 * **🖼️ Figma:** Ferramenta de design para a interface e prototipação;
 * **🧩 Trello:** Ferramenta para organização das tarefas e acompanhamento do progresso da equipe;
 * **🧠 Eclipse:** IDE utilizada para desenvolvimento do projeto em Java.
@@ -217,7 +217,7 @@ Solução: desenvolvemos uma aplicação web que facilita a análise de vendas p
 As seguintes tecnologias foram utilizadas nesse projeto: 
 * **🟦 TypeScript:** Linguagem principal no desenvolvimento do backend e frontend, garantindo maior segurança e organização do código;
 * **🟨 JavaScript:** Linguagem de programação utilizada principalmente na manipulação de dados, integrações e scripts da aplicação;
-* **🗄️ MySQL:** Banco de dados relacional usado para armazenar informações de usuários, vendas, produtos e comissões;
+* **🐬 MySQL:** Banco de dados relacional usado para armazenar informações de usuários, vendas, produtos e comissões;
 * **⚛️ React:** Biblioteca JavaScript utilizada para construir a interface do usuário com componentes reutilizáveis;
 * **🌿 NodeJS:** Plataforma utilizada no desenvolvimento da API RESTful para consumo dos dados da aplicação;
 * **💅 SCSS:** Pré-processador CSS adotado para estilização modular e responsiva do layout;
@@ -240,7 +240,7 @@ Entre minhas principais entregas, estão:
  
 #### Hard Skills 
 Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
-* JavaScript - Uso com autonomia; 
+* JavaScript - Uso com ajuda; 
 * Typescript - Uso com autonomia; 
 * MySQL - Uso com ajuda;
 * React - Uso com autonomia;
@@ -288,7 +288,7 @@ Solução: desenvolvemos um sistema web completo, com regras de negócio complex
 O projeto envolveu o uso de diversas tecnologias modernas, tanto no frontend quanto no backend:
 * **🟦 TypeScript:** Linguagem principal no desenvolvimento do backend e frontend, garantindo maior segurança e organização do código;
 * **🟨 JavaScript:** Linguagem de programação usada em lógicas específicas de manipulação de dados, integração e scripts;
-* **🗄️ MySQL:** Banco de dados relacional usado para armazenar informações e garantir integridade dos dados;
+* **🐬 MySQL:** Banco de dados relacional usado para armazenar informações e garantir integridade dos dados;
 * **⚛️ React:** Biblioteca JavaScript utilizada para construir a interface com componentes reutilizáveis e interativos;
 * **🌿 NodeJS:** Plataforma utilizada no desenvolvimento da API RESTful para consumo dos dados da aplicação;
 * **📝 HTML + 🎨 CSS:** Estruturação e estilização de componentes com foco em responsividade;
@@ -314,7 +314,7 @@ Entre minhas principais entregas, estão:
  
 #### Hard Skills 
 Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
-* JavaScript - Uso com autonomia; 
+* JavaScript - Uso com ajuda; 
 * Typescript - Uso com autonomia; 
 * MySQL - Uso com ajuda;
 * React - Uso com autonomia;
@@ -334,8 +334,70 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 
 <details>
  <summary>
-  ⭐ SistemaReembolso - GSW Software
+  ⭐ SistemaReembolso - GSW Software - Quinto semestre (2025-1)
  </summary>
- </br>
- 2025 - 1° semestre
+ 
+<br />
+Esse projeto foi desenvolvido no quinto semestre do curso, em parceria com a empresa GSW Software.
+ 
+O problema surgiu a partir da preocupação da empresa em trazer mais praticidade e precisão no processo de solicitação de reembolsos pelos funcionários.
+
+Solução: desenvolvemos uma solução completa composta por dois sistemas integrados:
+
+- Um aplicativo móvel voltado para os funcionários, com uma interface amigável e prática para o registro de despesas reembolsáveis, incluindo upload de comprovantes.
+
+- Um sistema web corporativo voltado para os gerentes, onde é possível acompanhar, revisar e aprovar solicitações de reembolso em tempo real.
+ 
+[Repositório GitHub - SistemaReembolso-GSW-Software](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software) 
+
+#### Tecnologias Utilizadas 
+As seguintes tecnologias foram utilizadas nesse projeto: 
+* **🟦 TypeScript:** Linguagem principal usada no app e no sistema web, trazendo segurança e organização ao código;
+* **⚛️ React:** Utilizado no desenvolvimento do sistema web corporativo (interface dos gerentes);
+* **📱 React Native:** Usado para a criação do aplicativo móvel de solicitação de reembolsos;
+* **🌿 NodeJS:** Plataforma utilizada para desenvolvimento da API RESTful que conecta o app e o sistema web;
+* **🍃 MongoDB:** Banco de dados NoSQL principal, usado para armazenar informações de usuários, despesas, projetos, pacotes, categorias e departamentos;
+* **🐬 MySQL:** Utilizado especificamente para armazenar arquivos (comprovantes de despesas em PDF/imagem e fotos de perfil) de forma segura e organizada;
+* **📱 Android Studio:** Ambiente utilizado para gerar o APK e testar o aplicativo nos dispositivos Android;
+* **🤖 Android:** O app foi desenvolvido exclusivamente para a plataforma Android, com APK disponibilizado;
+* **💅 Expo:** Framework para facilitar o desenvolvimento, testes e build do app em React Native;
+* **🖼️ Figma:** Ferramenta utilizada para o design e prototipação das telas do sistema e aplicativo;
+* **🧩 Jira:** Utilizada para gestão ágil de tarefas, acompanhamento das sprints e organização do time;
+* **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
+ 
+#### Contribuições Pessoais 
+Atuei como Product Owner e desenvolvedora, com foco nas necessidades do cliente e na experiência do usuário
+
+Entre minhas principais responsabilidades, estavam:
+- 
+ 
+#### Hard Skills 
+Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
+* Typescript - Uso com autonomia; 
+* React e React Native - Uso com autonomia;
+* NodeJS - Uso com autonomia;
+* MongoDB - Uso com autonomia;
+* MySQL - Uso com ajuda;
+* Android Studio - Uso com ajuda;
+* Expo - Uso com autonomia;
+
+#### Soft Skills 
+
+</br>
+
+- Entrega de resultados
+
+> 
+
+- Trabalho em equipe
+
+> 
+
+- Flexibilidade
+  
+> 
+
+<video src="https://github.com/user-attachments/assets/a475174d-3e06-47bd-8e2b-1b541b7cef08" width="150" controls></video>
+
+</br>
 </details>
