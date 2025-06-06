@@ -202,7 +202,7 @@ Esse projeto também me desafiou a sair da zona de conforto e aprimorar diversas
 <br />
 Esse projeto foi desenvolvido no terceiro semestre do curso, em parceria com a empresa de tecnologia Pro4Tech.
  
-O problema surgiu a partir da dificuldade que a empresa enfrentava para gerenciar e interpretar grandes volumes de dados de vendas, que estavam sendo armazenados em planilhas Excel. A visualização de informações importantes era demorada, limitada e ineficiente para tomada de decisões estratégicas.
+O problema surgiu a partir da dificuldade da empresa em gerenciar e interpretar grandes volumes de dados de vendas, que estavam sendo armazenados em planilhas Excel. A visualização de informações importantes era demorada, limitada e ineficiente para tomada de decisões estratégicas.
 
 Solução: desenvolvemos uma aplicação web que facilita a análise de vendas por meio de dashboards dinâmicos e intuitivos. A aplicação importa os dados diretamente de arquivos Excel e os exibe em gráficos interativos e tabelas segmentadas, com suporte a: 
 
@@ -226,40 +226,44 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
  
 #### Contribuições Pessoais 
-Atuei como desenvolvedora front-end no projeto, com foco na interface interativa e responsiva.
+Atuei como desenvolvedora front-end, com foco na criação de uma interface bonita, interativa e funcional. Tive participação em diversas partes do projeto, desde telas mais simples até integrações com o backend.
 
 Entre minhas principais entregas, estão:
-- Implementação do sidebar;
-- Melhoria da usabilidade e design visual: incluí ícones, ajustei paleta de cores e tipografias, apliquei contrastes adequados e organizei os elementos visuais pensando na experiência do usuário;
-- Adicionar elementos visuais como ícones e ilustrações explicativas que ajudaram a tornar o conteúdo mais atrativo e fácil de entender;
-- Criação do conteúdo explicativo sobre metodologias ágeis: pesquisei e redigi os textos explicativos de forma didática, especialmente sobre Product Owner e Kanban, tornando o site mais informativo e educativo;
-- Desenvolvimento do quiz interativo: implementei a lógica do questionário final da página de Equipe de Desenvolvimento utilizando JavaScript. Esse recurso validava automaticamente as respostas e oferecia feedback visual ao usuário;
-- Integração de links e navegação entre páginas: cuidei da criação de links funcionais, como logos de ferramentas que redirecionam para sites externos, melhorando a interatividade e navegabilidade;
+- Sidebar completo e funcional: implementei toda a navegação lateral da aplicação, garantindo que fosse responsiva e intuitiva.
+- Melhoria de usabilidade e design visual: ajustei cores, contraste, ícones e organização dos elementos para melhorar a experiência do usuário, com base em boas práticas de UX/UI.
+- Tela de vendedores: criei uma tabela interativa com as últimas vendas de cada vendedor, incluindo funcionalidades como exclusão e redirecionamento para o perfil individual.
+- Tela de clientes: desenvolvi uma tela completa com campos editáveis (nome, CPF/CNPJ, segmentação, tipo de venda etc.) e a funcionalidade de adicionar novos clientes e vendas. 
+- Tela de produtos: exibição de todos os produtos com possibilidade de edição, adição e conexão com o banco de dados — tudo funcionando em tempo real.
+- Gráfico de vendas gerais: atuei tanto no front quanto no back, criando o gráfico que mostra a performance de vendas no perfil de cada vendedor.
+- Upload de foto de perfil: implementei o upload de imagens para o perfil dos vendedores, cuidando da integração com o backend e da exibição correta na interface.
 - Acompanhamento e testes de qualidade: testei o sistema regularmente durante as sprints, identifiquei bugs de layout e sugeri ajustes que foram implementados para melhorar a performance;
-- Contribuí com sugestões de melhoria, ajudando a organizar a apresentação final e até mesmo conduzindo partes da demonstração do projeto para os professores e colegas;
  
 #### Hard Skills 
 Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
-* Python e Flask - Uso com ajuda; 
-* HTML e CSS - Uso com autonomia; 
-* Bootstrap - Uso com autonomia;
-* JavaScript - Uso com autonomia.
+* JavaScript - Uso com autonomia; 
+* Typescript - Uso com autonomia; 
+* MySQL - Uso com ajuda;
+* React - Uso com autonomia;
+* NodeJS - Uso com autonomia;
+* SCSS - Uso com autonomia.
 
 #### Soft Skills 
 
-Esse primeiro projeto da API foi um grande marco no meu desenvolvimento pessoal e profissional. Precisei sair da minha zona de conforto e trabalhar habilidades como proatividade e autoconfiança, que se tornaram fundamentais para o meu crescimento na área.
 </br>
 
-- Proatividade e comunicação no trabalho em equipe
+- Entrega de resultados
 
-> Desenvolvi uma postura proativa no time. Sempre que eu finalizava minhas tarefas, me colocava à disposição no grupo da equipe para ajudar os meus colegas — sem precisar ser solicitada. Além disso, busquei formas de contribuir com o projeto, por exemplo, meus colegas pediam a opinião da equipe sobre o layout, cores e conteúdo do site, e eu dava sugestões de melhoria. Também valorizei muito a comunicação dentro do time: sempre respondia as mensagens no grupo e deixava todos informados sobre o andamento das minhas atividades. Eu entendi meu papel na equipe, o que evidenciou minhas habilidades de colaboração e comprometimento com o resultado coletivo.
+> Todas as tarefas que ficaram sob minha responsabilidade foram entregues com qualidade e capricho — tanto na funcionalidade quanto na parte visual. Sempre escrevi códigos organizados e comentados, pensando em facilitar o entendimento para quem fosse mexer depois de mim. Me preocupei em escrever códigos organizados e bem comentados, pensando em facilitar o entendimento para quem fosse mexer depois de mim.
 
-- Autoconfiança
+- Trabalho em equipe
 
-> No início do projeto, senti bastante insegurança em assumir tarefas de programação, por ser meu primeiro contato com a área, preferindo atividades de estudo e documentação. Com o tempo, entendi que o meu crescimento viria justamente dos desafios técnicos. Então, assumi o compromisso de mudar minha postura e comecei a aplicar, na prática, os conhecimentos que estava adquirindo. Me propus, por exemplo, a trabalhar no layout e na responsividade do site, além de implementar a lógica de funcionamento do quiz. Sempre que surgiam dúvidas, procurava meus colegas com humildade e abertura para aprender. À medida que via minha evolução, fui ganhando segurança para assumir tarefas cada vez mais complexas nos próximos projetos.
+> A home da aplicação era uma das tarefas mais complexas, e eu a desenvolvi junto com uma colega. A gente teve que alinhar o uso do sidebar, calendário, gráficos, layout e comportamento dos componentes. Dividimos bem o trabalho, nos comunicamos com clareza e conseguimos entregar tudo no prazo — seguindo fielmente o protótipo criado por outra pessoa.
 
-<video src="https://github.com/user-attachments/assets/1776adc3-9e18-42c6-8b43-cd75a83feab4" width="150" controls></video>
-* [Acesse o site pelo seu computador ou celular!](https://techschool.pedrohenribeiro.com/)
+- Flexibilidade
+  
+> No início do projeto, começamos com abordagens diferentes: eu estava usando JavaScript e CSS, enquanto minha colega começou com TypeScript e SCSS. Quando vi que a estrutura dela estava mais organizada e alinhada com as boas práticas, parei, analisei e tomei a decisão de refazer o que eu tinha feito — me adaptei ao que fazia mais sentido para o projeto. Foi um exemplo claro de que, para mim, o resultado do time vem antes do apego ao próprio código.
+
+<video src="https://github.com/user-attachments/assets/aa396f3c-ee40-4ae3-ab7b-e323c8a6bbcc" width="150" controls></video>
 
 </br>
 </details>
