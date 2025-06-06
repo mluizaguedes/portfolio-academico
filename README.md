@@ -131,10 +131,65 @@ Esse primeiro projeto da API foi um grande marco no meu desenvolvimento pessoal 
  
 <details>
  <summary>
-  ⭐ Assistente Zari
+  ⭐ Assistente Zari - Segundo Semestre (2023-2)
  </summary>
- </br>
- 2023 - 2° semestre
+ 
+<br />
+Esse projeto foi desenvolvido no segundo semestre do curso, em parceria com o colaborador interno Giuliano Bertoti.
+ 
+O problema surgiu a partir da necessidade dos usuários em localizar informações específicas dentro de documentos extensos de forma mais rápida e prática.
+
+Solução: desenvolvemos um chatbot inteligente (assistente virtual) com a capacidade de analisar documentos e responder perguntas relacionadas ao conteúdo. O objetivo principal foi otimizar a navegação pelas informações, tornando o acesso mais direto e eficiente para o usuário.
+ 
+[GIT - Projeto-de-API-2-Semestre](https://github.com/Equipe-Meta-Code/Zari-documentation) 
+
+#### Tecnologias Utilizadas 
+As seguintes tecnologias foram utilizadas nesse projeto: 
+* **☕ Java:** Linguagem principal utilizada no desenvolvimento da lógica do chatbot;
+* **📦 Gradle:** Ferramenta de automação de build e gerenciamento de dependências no projeto Java;
+* **🗄️ MySQL:** Banco de dados para armazenar interações e informações extraídas dos documentos;
+* **🖼️ Figma:** Ferramenta de design para a interface e prototipação;
+* **🧩 Trello:** Ferramenta para organização das tarefas e acompanhamento do progresso da equipe;
+* **🧠 Eclipse:** IDE utilizada para desenvolvimento do projeto em Java.
+ 
+#### Contribuições Pessoais 
+Atuei como Scrum Master e desenvolvedora, conciliando tarefas técnicas com a liderança dos processos ágeis da equipe.
+
+Minhas principais entregas foram:
+- Coordenação ágil da equipe: como Scrum Master, conduzi as dailys, planejei as sprints e acompanhei o progresso no Trello, incentivando uma rotina colaborativa e produtiva;
+- Comunicação com stakeholders: representei a equipe nas reuniões semanais com o professor orientador (M2), elaborando resumos claros e objetivos do andamento do projeto;
+- Gestão de repositório GitHub: colaborei com a Product Owner para garantir que a documentação no GitHub refletisse corretamente o progresso do projeto;
+- Modelagem UML: fui responsável por criar e atualizar o diagrama de classes, mantendo a arquitetura clara e consistente com as mudanças no código;
+- Implementação técnica: programei a funcionalidade que registra automaticamente a data e hora do upload de arquivos feitos pelo usuário, armazenando essas informações no histórico do chatbot;
+- Testes e garantia de qualidade: realizei testes constantes na interface, identifiquei bugs e sugeri melhorias que foram aplicadas para aprimorar a experiência do usuário;
+- Apresentações: fui responsável por conduzir todas as apresentações de sprint, demonstrando o avanço técnico e estratégico do projeto com clareza.
+ 
+#### Hard Skills 
+Durante esse projeto, pratiquei as seguintes tecnologias:
+* Java e Gradle - Uso com ajuda; 
+* MySQL - Uso com ajuda;
+* Trello - Uso com autonomia.
+
+#### Soft Skills 
+
+Esse projeto também me desafiou a sair da zona de conforto e aprimorar diversas competências interpessoais.
+</br>
+
+- Comunicação clara e objetiva
+
+> Fui responsável pelos processos ágeis da equipe. Então, durante o projeto, eu organizava e conduzia as dailys e apresentações de sprint. Buscava sempre alinhar os prazos e garantir que todos estivessem na mesma página. Comunicava semanalmente o andamento da equipe ao professor orientador M2 e repassava avisos e orientações técnicas de forma clara, mantendo o time sempre atualizado. Valorizo a comunicação como base para o bom funcionamento de qualquer equipe.
+
+- Responsabilidade e organização
+
+> Meu papel exigia comprometimento com as rotinas do time. Mantive o Trello atualizado com as tarefas de cada sprint, conduzi dailys e retrospectivas e documentei decisões importantes para garantir o alinhamento. Como Scrum Master, também era minha responsabilidade acompanhar o progresso individual de cada colega, porque eu precisava reportar ao professor como a equipe estava lidando com o projeto — o que exigia atenção constante, escuta ativa e um bom senso de responsabilidade e organização.
+
+- Proatividade na resolução de problemas
+
+> Em um momento crítico do projeto, o sistema deixou de rodar para toda a equipe, impedindo uma colega de concluir sua tarefa. Como facilitadora, entendi que esse bloqueio afetava diretamente a produtividade e o andamento da sprint. Me empenhei para identificar e resolver o problema, para isso, busquei soluções e testei alternativas até que o ambiente voltasse a funcionar. Esse esforço permitiu que minha colega retomasse seu trabalho e garantiu a continuidade do projeto.
+
+<video src="https://github.com/user-attachments/assets/d61db96d-3cdc-4602-aefd-c2c64e1a8a20" width="150" controls></video>
+
+</br>
 </details>
 
 <span id="dashboard">
