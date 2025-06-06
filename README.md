@@ -368,47 +368,49 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 #### Contribuições Pessoais 
 Atuei como Product Owner e desenvolvedora, com foco em alinhar as funcionalidades às necessidades do cliente e garantir uma ótima experiência do usuário.
 
-Entre minhas principais responsabilidades como Product Owner, estão:
+Principais responsabilidades como Product Owner:
 - Definição do MVP: Fui responsável por definir o MVP (Produto Mínimo Viável), priorizando funcionalidades essenciais e garantindo o alinhamento com as necessidades reais da empresa parceira;
 - Gestão de Backlog: Criei e mantive o backlog, redigi histórias de usuário detalhadas e conduzi reuniões de planejamento com clareza e visão estratégica;
 - Facilitação de sprints: Trabalhei lado a lado com a Scrum Master para definição e monitoramento do burndown e alinhamento entre time e cliente;
-- Alinhamento de Equipe: Mantive a equipe alinhada aos objetivos do projeto e assegurei que todos os requisitos do cliente estivessem sendo cumpridos;
-- Apresentações ao Cliente: Apresentei as entregas ao cliente em cada sprint, liderando a coleta de feedbacks e ajustando o sistema conforme necessário;
-- Documentação: Cuidei da documentação técnica e funcional no GitHub, garantindo acessibilidade e transparência.
+- Alinhamento de equipe: Mantive a equipe alinhada aos objetivos do projeto e assegurei que todos os requisitos do cliente estivessem sendo cumpridos;
+- Apresentações ao cliente: Apresentei as entregas ao cliente em cada sprint, garantindo a coleta de feedbacks e ajustando o sistema conforme necessário;
+- Documentação: Cuidei da documentação técnica e funcional no GitHub, assegurando acessibilidade e transparência.
 
-Entre minhas principais entregas como desenvolvedora no aplicativo (mobile), estão:
-- Base do Projeto: Estruturei a base do projeto no Expo, organizei as rotas principais e criei a navegação com tabbar totalmente personalizada e intuitiva;
-- Pacotes de Despesas: Modelei o backend e implementei toda a funcionalidade de pacotes de despesas, permitindo o agrupamento de despesas e o envio do reembolso de forma coletiva;
+Principais entregas como desenvolvedora (app mobile):
+- Base do projeto: Estruturei a base do projeto no Expo, organizei as rotas principais e criei a navegação com tabbar totalmente personalizada e intuitiva;
+- Pacotes de despesas: Modelei o backend e implementei toda a funcionalidade de pacotes de despesas, permitindo o agrupamento de despesas e o envio do reembolso de forma coletiva;
 - Tela de Pacotes: Desenvolvi a tela de pacotes, com filtros por status (rascunho, aguardando aprovação, recusado, aprovado, parcialmente aprovado) e por projeto selecionado;
 - Cards de Pacotes: Criei os cards de pacotes com agrupamento de despesas por categoria, ordenação por data e feedback visual da situação do pacote;
-- Criação Rápida de Pacotes: Adicionei a opção de criação rápida de pacotes no momento do registro de despesas, com foco total na usabilidade;
-- Atualização em Tempo Real: Programei autorefresh e pull refresh em todas as telas críticas para garantir atualizações em tempo real;
-- UX para Erros e Vazio: Adicionei mensagens contextuais e amigáveis para estados vazios e erros, com timers de exibição para melhorar a experiência;
-- Alerta de Limite: Desenvolvi lógica para exibir a barra de valor em vermelho quando os valores ultrapassam o limite estipulado pelo gerente;
-- Autenticação em Duas Etapas: Implementei a autenticação em duas etapas com envio de código por e-mail, além da opção de ativar/desativar o recurso no perfil;
-- Aprimoramento Visual: Fiz refinamentos visuais e ajustes de layout para tornar o aplicativo intuitivo, moderno e acessível;
-- Status de Projetos: Destaquei visualmente os projetos ativos e encerrados na home;
-- Resumo na Tela de Histórico: Desenvolvi o resumo financeiro do usuário na tela de histórico, incluindo totais por status de aprovação.
+- Criação rápida de pacotes: Adicionei a opção de criação de pacotes no momento do registro de despesas, com foco total na praticidade;
+- Atualização em tempo real: Programei autorefresh e pull refresh nas telas home, pacotes, notificação e perfil, para garantir atualizações em tempo real;
+- UX para erros e vazio: Adicionei mensagens contextuais e amigáveis para estados vazios e erros, algumas com timers de exibição para melhorar a experiência;
+- Alerta de limite: Desenvolvi lógica para exibir a barra de valor em vermelho quando os valores ultrapassam o limite estipulado pelo gerente;
+- Autenticação em duas etapas: Implementei a autenticação em duas etapas com envio de código por e-mail, além da opção de ativar/desativar o recurso no perfil;
+- Aprimoramento visual: Fiz refinamentos visuais e ajustes de layout para tornar o aplicativo intuitivo, moderno e acessível;
+- Status de projetos: Destaquei visualmente os projetos ativos e encerrados na home;
+- Resumo na tela de Histórico: Desenvolvi o resumo financeiro do usuário na tela de histórico, incluindo totais por status de aprovação.
 
-Entre minhas principais entregas como desenvolvedora no sistema corporativo (web), estão :
-- Login com Autorização por Papel: Desenvolvi o login completo com frontend e backend, permitindo que apenas usuários com role: gerente tivessem acesso ao sistema corporativo;
-- Autenticação para Gerentes: Desenvolvi a autenticação com dois fatores para gerentes, com lógica de verificação de código enviado por e-mail;
-- Persistência de Sessão: Implementei persistência de sessão com uso de AsyncStorage, mantendo o gerente logado mesmo após recarregar a página;
-- Feedback Visual: Adicionei avisos visuais e confirmações de ação em todos os pontos críticos do sistema;
-- Proteção de Rotas: Protegi as rotas para garantir que apenas usuários autenticados e autorizados acessassem o sistema;
-- Encerramento de Projetos: Desenvolvi a funcionalidade para encerramento de projetos com conexão da alteração no app;
+Principais entregas como desenvolvedora (sistema web):
+- Login exclusivo para gerentes: Desenvolvi o login completo com frontend e backend, permitindo que apenas usuários com role: gerente tivessem acesso ao sistema corporativo;
+- Autenticação em duas etapas: Desenvolvi a autenticação em duas etapas para gerentes, com lógica de verificação de código enviado por e-mail;
+- Persistência de sessão: Implementei persistência de sessão com uso de AsyncStorage, mantendo o gerente logado mesmo após recarregar a página;
+- Feedback visual: Adicionei avisos visuais e confirmações de ação em todos os pontos críticos do sistema;
+- Encerramento de projetos: Desenvolvi a funcionalidade para encerramento de projetos com conexão da alteração no app;
 - Card de Projetos: Destaquei claramente projetos ativos x encerrados;
-- Atualizações em Tempo Real: Trabalhei para garantir que as atualizações fossem refletidas em tempo real, promovendo fluidez e confiabilidade no uso.
+- Atualizações em tempo real: Trabalhei para garantir que as atualizações fossem refletidas em tempo real, promovendo fluidez e confiabilidade no uso.
  
 #### Hard Skills 
-Durante esse projeto, desenvolvi e consolidei diversas competências técnicas, incluindo:
+Durante esse projeto, desenvolvi e consolidei as seguintes competências técnicas:
 * Typescript - Uso com autonomia; 
 * React e React Native - Uso com autonomia;
 * NodeJS - Uso com autonomia;
 * MongoDB - Uso com autonomia;
 * MySQL - Uso com ajuda;
-* Android Studio - Uso com ajuda;
-* Expo - Uso com autonomia.
+* Android e Android Studio - Uso com ajuda;
+* Expo - Uso com autonomia;
+* Figma - Uso com ajuda;
+* Jira - Uso com ajuda;
+* VSCode - Uso com autonomia;
 
 #### Soft Skills 
 Esse projeto me proporcionou a oportunidade de desenvolver várias competências interpessoais essenciais, com destaque para a responsabilidade, proatividade e colaboração com minha equipe.
