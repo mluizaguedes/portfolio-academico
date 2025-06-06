@@ -156,7 +156,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 Atuei como Scrum Master e desenvolvedora, conciliando tarefas técnicas com a liderança dos processos ágeis da equipe.
 
 Minhas principais contribuições estão:
-- Coordenação ágil da equipe: como Scrum Master, conduzi as dailys, planejei as sprints e acompanhei o progresso no Trello, incentivando uma rotina colaborativa e produtiva;
+- Coordenação ágil da equipe: como Scrum Master, conduzi as *dailys*, planejei as sprints e acompanhei o progresso no Trello, incentivando uma rotina colaborativa e produtiva;
 - Comunicação com stakeholders: representei a equipe nas reuniões semanais com o professor orientador (M2), elaborando resumos claros e objetivos do andamento do projeto;
 - Gestão de repositório GitHub: colaborei com a Product Owner para garantir que a documentação no GitHub refletisse corretamente o progresso do projeto;
 - Modelagem UML: fui responsável por criar e atualizar o diagrama de classes, mantendo a arquitetura clara e consistente com as mudanças no código;
@@ -227,16 +227,16 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
  
 #### Contribuições Pessoais 
-Atuei como desenvolvedora front-end, com foco na criação de uma interface bonita, interativa e funcional. Tive participação em diversas partes do projeto, desde telas mais simples até integrações com o backend.
+Atuei como desenvolvedora, com foco na criação de uma interface bonita, interativa e funcional. Tive participação em diversas partes do projeto, desde telas mais simples até integrações com o backend.
 
 Entre minhas principais entregas, estão:
-- Sidebar completo e funcional: implementei toda a navegação lateral da aplicação, garantindo que fosse responsiva e intuitiva;
+- Sidebar completo e funcional: implementei toda a navegação lateral da aplicação com React Router, com links dinâmicos e estilo responsivo em SCSS, mantendo o layout fixo e acessível em todas as telas;
 - Melhoria de usabilidade e design visual: ajustei cores, contraste, ícones e organização dos elementos para melhorar a experiência do usuário, com base em boas práticas de UX/UI;
 - Tela de vendedores: criei uma tabela interativa com as últimas vendas de cada vendedor, incluindo funcionalidades como exclusão e redirecionamento para o perfil individual;
 - Tela de clientes: desenvolvi uma tela completa com campos editáveis (nome, CPF/CNPJ, segmentação, tipo de venda etc.) e a funcionalidade de adicionar novos clientes e vendas; 
-- Tela de produtos: exibição de todos os produtos com possibilidade de edição, adição e conexão com o banco de dados — tudo funcionando em tempo real;
+- Tela de produtos com CRUD completo: implementei toda a funcionalidade de exibição e edição de produtos, com conexão ao backend por meio de Axios e renderização condicional com useState e useEffect para atualização em tempo real;
 - Gráfico de vendas gerais: atuei tanto no front quanto no back, criando o gráfico que mostra a performance de vendas no perfil de cada vendedor;
-- Upload de foto de perfil: implementei o upload de imagens para o perfil dos vendedores, cuidando da integração com o backend e da exibição correta na interface;
+- Upload de foto de perfil: implementei o upload de imagens para o perfil dos vendedores, cuidando da integração com o backend (Node.js + multer) e da exibição correta na interface;
 - Acompanhamento e testes de qualidade: testei o sistema regularmente durante as sprints, identifiquei bugs de layout e sugeri ajustes que foram implementados para melhorar a performance.
  
 #### Hard Skills 
@@ -340,7 +340,7 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
  </summary>
  
 <br />
-Esse projeto foi desenvolvido no quinto semestre do curso, em parceria com a empresa GSW Software.
+Esse projeto foi desenvolvido no quinto semestre do curso, em parceria com a empresa de tecnologia GSW Software.
  
 O problema surgiu a partir da preocupação da empresa em trazer mais praticidade e precisão no processo de solicitação de reembolsos pelos funcionários.
 
