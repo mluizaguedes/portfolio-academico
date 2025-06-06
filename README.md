@@ -141,7 +141,7 @@ O problema surgiu a partir da necessidade dos usuários em localizar informaçõ
 
 Solução: desenvolvemos um chatbot inteligente (assistente virtual) com a capacidade de analisar documentos e responder perguntas relacionadas ao conteúdo. O objetivo principal foi otimizar a navegação pelas informações, tornando o acesso mais direto e eficiente para o usuário.
  
-[GIT - Projeto-de-API-2-Semestre](https://github.com/Equipe-Meta-Code/Zari-documentation) 
+[Zari-documentation](https://github.com/Equipe-Meta-Code/Zari-documentation) 
 
 #### Tecnologias Utilizadas 
 As seguintes tecnologias foram utilizadas nesse projeto: 
