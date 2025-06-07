@@ -346,8 +346,6 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
   
 > Minha postura ao longo do projeto foi totalmente colaborativa, tanto nas tarefas de frontend quanto nas integrações com o backend. Evitei me limitar apenas às áreas de maior familiaridade e aceitei trabalhar em funcionalidades que contribuíssem para o sucesso do projeto. Um exemplo claro disso foi quando surgiu a necessidade de implementar o upload de arquivos, algo que exigia também lógica backend — uma área em que eu ainda estava me desenvolvendo. Mesmo assim, me coloquei à disposição da equipe, estudei o necessário e entreguei a funcionalidade. Essa atitude reforçou minha disposição de aprender, colaborar e assumir responsabilidades quando o time precisava.
 
-</br>
-
 #### Vídeo do projeto
 
 <video src="https://github.com/user-attachments/assets/ddea8a5f-4293-4174-9702-b6e122f60dfb" width="150" controls></video>
@@ -394,7 +392,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 #### Contribuições Pessoais 
 Atuei como Product Owner e desenvolvedora, com foco em alinhar as funcionalidades às necessidades do cliente e garantir uma ótima experiência do usuário.
 
-**Principais responsabilidades como Product Owner:**
+**Principais contribuições como Product Owner:**
 - Definição do MVP: Fui responsável por definir o MVP (Produto Mínimo Viável), priorizando funcionalidades essenciais e garantindo o alinhamento com as necessidades reais da empresa parceira;
 - Gestão de Backlog: Criei e mantive o backlog, redigi histórias de usuário detalhadas e conduzi reuniões de planejamento com clareza e visão estratégica;
 - Facilitação de sprints: Trabalhei lado a lado com a Scrum Master para definição e monitoramento do burndown e alinhamento entre time e cliente;
@@ -402,7 +400,7 @@ Atuei como Product Owner e desenvolvedora, com foco em alinhar as funcionalidade
 - Apresentações ao cliente: Apresentei as entregas ao cliente em cada sprint, garantindo a coleta de feedbacks e ajustando o sistema conforme necessário;
 - Documentação: Cuidei da documentação técnica e funcional no GitHub, assegurando acessibilidade e transparência.
 
-**Principais entregas como desenvolvedora (app mobile):**
+**Principais contribuições como desenvolvedora (app mobile):**
 - Base do projeto: Estruturei a base do projeto no Expo, organizei as rotas principais e criei a navegação com tabbar totalmente personalizada e intuitiva;
 - Pacotes de despesas: Modelei o backend e implementei toda a funcionalidade de pacotes de despesas, permitindo o agrupamento de despesas e o envio do reembolso de forma coletiva;
 - Tela de Pacotes: Desenvolvi a tela de pacotes, com filtros por status (rascunho, aguardando aprovação, recusado, aprovado, parcialmente aprovado) e por projeto selecionado;
@@ -416,7 +414,7 @@ Atuei como Product Owner e desenvolvedora, com foco em alinhar as funcionalidade
 - Status de projetos: Destaquei visualmente os projetos ativos e encerrados na home;
 - Resumo na tela de Histórico: Desenvolvi o resumo financeiro do usuário na tela de histórico, incluindo totais por status de aprovação.
 
-**Principais entregas como desenvolvedora (sistema web):**
+**Principais contribuições como desenvolvedora (sistema web):**
 - Login exclusivo para gerentes: Desenvolvi o login completo com frontend e backend, permitindo que apenas usuários com role: gerente tivessem acesso ao sistema corporativo;
 - Autenticação em duas etapas: Desenvolvi a autenticação em duas etapas para gerentes, com lógica de verificação de código enviado por e-mail;
 - Persistência de sessão: Implementei persistência de sessão com uso de AsyncStorage, mantendo o gerente logado mesmo após recarregar a página;
