@@ -384,6 +384,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **⚛️ React:** Utilizado no desenvolvimento do sistema web corporativo (interface dos gerentes);
 * **📱 React Native:** Usado para a criação do aplicativo móvel de solicitação de reembolsos;
 * **🌿 NodeJS:** Plataforma utilizada para desenvolvimento da API RESTful que conecta o app e o sistema web;
+* **📫 Postman:** Ferramenta utilizada para testar e documentar as requisições HTTP da API, garantindo que os endpoints funcionassem corretamente e de forma segura;
 * **🍃 MongoDB:** Banco de dados NoSQL principal, usado para armazenar informações de usuários, despesas, projetos, pacotes, categorias e departamentos;
 * **🐬 MySQL:** Utilizado especificamente para armazenar arquivos (comprovantes de despesas em PDF/imagem e fotos de perfil) de forma segura e organizada;
 * **📱 Android Studio:** Ambiente utilizado para gerar o APK e testar o aplicativo nos dispositivos Android;
@@ -391,6 +392,8 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **🚀 Expo:** Framework para facilitar o desenvolvimento, testes e build do app em React Native;
 * **🖼️ Figma:** Ferramenta utilizada para o design e prototipação das telas do sistema e aplicativo;
 * **📋 Jira:** Utilizada para gestão ágil de tarefas, acompanhamento das sprints e organização do time;
+* **💬 Slack:** Plataforma de comunicação utilizada para troca rápida de informações entre equipe e cliente, facilitando alinhamentos durante as sprints;
+* **🍴 Fork:** Sistema de versionamento de código baseado no Git, utilizado para a criação de ramificações seguras dos repositórios, possibilitando o trabalho paralelo entre os membros da equipe;
 * **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
  
 #### Contribuições Pessoais 
@@ -432,11 +435,14 @@ Durante esse projeto, desenvolvi e consolidei as seguintes competências técnic
 * Typescript - Uso com autonomia; 
 * React e React Native - Uso com autonomia;
 * NodeJS - Uso com autonomia;
+* Postman - Uso com ajuda;
 * MongoDB - Uso com autonomia;
 * MySQL - Uso com ajuda;
 * Android e Android Studio - Uso com ajuda;
 * Expo - Uso com autonomia;
-* Jira - Uso com ajuda.
+* Jira - Uso com ajuda;
+* Slack - Uso com autonomia;
+* Fork - Uso com ajuda.
 
 #### Soft Skills 
 Esse projeto me proporcionou a oportunidade de desenvolver várias competências interpessoais essenciais, com destaque para a responsabilidade, proatividade e colaboração com minha equipe.
@@ -445,7 +451,7 @@ Esse projeto me proporcionou a oportunidade de desenvolver várias competências
 
 - Responsabilidade e organização
 
-> Durante o projeto, atuei como Product Owner, o que exigiu um alto nível de organização e comprometimento desde o início. No primeiro dia da primeira sprint, já cheguei com o backlog completo, contendo user stories claras, definição de prioridades e o escopo do MVP. Conduzi a reunião de planejamento, apresentando o que deveria ser feito em cada sprint, com clareza e visão estratégica. Quando surgiram dúvidas, não hesitei em entrar em contato com o cliente imediatamente para buscar respostas, garantindo que a equipe tivesse sempre um direcionamento claro. Além disso, como nesse semestre tivemos apenas 3 sprints (ao invés de 4), planejei cuidadosamente o escopo de cada entrega para que conseguíssemos gerar valor real a cada iteração, sem sobrecarregar o time. Mesmo como PO, não me eximi de responsabilidades técnicas: fui responsável por criar a base do projeto no VSCode, o que permitiu que todos os colegas pudessem iniciar suas tarefas. Concluí essa entrega no primeiro dia, pois sabia que toda a equipe dependia dela.
+> Durante o projeto, atuei como Product Owner, o que exigiu um alto nível de organização e comprometimento desde o início. No primeiro dia da primeira sprint, já cheguei com o backlog completo, contendo user stories claras, definição de prioridades e o escopo do MVP. Conduzi a reunião de planejamento, apresentando o que deveria ser feito em cada sprint, com clareza e visão estratégica. Quando surgiram dúvidas, não hesitei em entrar em contato com o cliente via Slack para buscar respostas, garantindo que a equipe tivesse sempre um direcionamento claro. Além disso, como nesse semestre tivemos apenas 3 sprints (ao invés de 4), planejei cuidadosamente o escopo de cada entrega para que conseguíssemos gerar valor real a cada iteração, sem sobrecarregar o time. Mesmo como PO, não me eximi de responsabilidades técnicas: fui responsável por criar a base do projeto no VSCode, o que permitiu que todos os colegas pudessem iniciar suas tarefas. Concluí essa entrega no primeiro dia, pois sabia que toda a equipe dependia dela.
 
 - Proatividade na resolução de problemas
 
