@@ -67,9 +67,10 @@ Tenho grande interesse em desenvolvimento full-stack, área na qual venho focand
   ⭐ Tech School - Primeiro Semestre (2023-1)
  </summary>
 
-<br />
+</br>
+
 Esse projeto foi desenvolvido no primeiro semestre do curso, em parceria com o colaborador interno Antônio Egydio.
- 
+
 O problema surgiu a partir da necessidade de uma empresa que queria adotar a metodologia ágil SCRUM, mas seus colaboradores ainda não tinham conhecimento suficiente sobre os conceitos, processos e práticas envolvidas.
  
 Solução: desenvolvemos um sistema web com o objetivo de explicar, de forma clara e prática, os principais elementos do SCRUM: papéis, artefatos, eventos e habilidades necessárias. O foco foi criar uma interface intuitiva, com uma navegação simples e sem excesso de informação, facilitando a compreensão e a aplicação dos conceitos por parte dos usuários em projetos futuros.
@@ -123,6 +124,8 @@ Esse primeiro projeto da API foi um grande marco no meu desenvolvimento pessoal 
 
 > No início do projeto, senti bastante insegurança em assumir tarefas de programação, por ser meu primeiro contato com a área, preferindo atividades de estudo e documentação. Com o tempo, entendi que o meu crescimento viria justamente dos desafios técnicos. Então, assumi o compromisso de mudar minha postura e comecei a aplicar, na prática, os conhecimentos que estava adquirindo. Me propus a trabalhar na responsividade do site usando CSS e a implementar a lógica do quiz interativo com JavaScript. E fui capaz de entregar as funcionalidades completas e funcionais. Sempre que surgiam dúvidas, procurava meus colegas com humildade e abertura para aprender. À medida que via minha evolução, fui ganhando segurança para assumir tarefas cada vez mais complexas nos próximos projetos.
 
+#### Vídeo do projeto
+
 <video src="https://github.com/user-attachments/assets/1776adc3-9e18-42c6-8b43-cd75a83feab4" width="150" controls></video>
 * [Acesse o site pelo seu computador ou celular!](https://techschool.pedrohenribeiro.com/) *(Segure `Ctrl` e clique para abrir em nova guia)*
 
@@ -136,7 +139,8 @@ Esse primeiro projeto da API foi um grande marco no meu desenvolvimento pessoal 
   ⭐ Assistente Zari - Segundo Semestre (2023-2)
  </summary>
  
-<br />
+</br>
+
 Esse projeto foi desenvolvido no segundo semestre do curso, em parceria com o colaborador interno Giuliano Bertoti.
  
 O problema surgiu a partir da necessidade dos usuários em localizar informações específicas dentro de documentos extensos de forma rápida e prática.
@@ -193,6 +197,8 @@ Esse projeto também me desafiou a sair da zona de conforto e aprimorar diversas
 
 > Em um momento crítico do projeto, o sistema deixou de rodar para toda a equipe, impedindo uma colega de concluir sua tarefa. Como facilitadora, entendi que esse bloqueio afetava diretamente a produtividade e o andamento da sprint. Me empenhei para identificar e resolver o problema, para isso, busquei soluções e testei alternativas até que o ambiente voltasse a funcionar. Esse esforço permitiu que minha colega retomasse seu trabalho e garantiu a continuidade do projeto.
 
+#### Vídeo do projeto
+
 <video src="https://github.com/user-attachments/assets/d61db96d-3cdc-4602-aefd-c2c64e1a8a20" width="150" controls></video>
 
 </br>
@@ -205,7 +211,8 @@ Esse projeto também me desafiou a sair da zona de conforto e aprimorar diversas
   ⭐ Dashboard Pro4Tech - Terceiro Semestre (2024-1)
  </summary>
 
-<br />
+<br/>
+
 Esse projeto foi desenvolvido no terceiro semestre do curso, em parceria com a empresa de tecnologia Pro4Tech.
  
 O problema surgiu a partir da dificuldade da empresa em gerenciar e interpretar grandes volumes de dados de vendas, que estavam sendo armazenados em planilhas Excel. A visualização de informações importantes era demorada, limitada e ineficiente para tomada de decisões estratégicas.
@@ -264,6 +271,8 @@ Nesse projeto, precisei tomar decisões e me adaptar a mudanças ao longo do cam
   
 > No início do projeto, começamos com abordagens diferentes: eu estava usando JavaScript e CSS, enquanto minha colega começou com TypeScript e SCSS. Quando vi que a estrutura dela estava mais organizada e alinhada com as boas práticas, parei, analisei e tomei a decisão de refazer o que eu tinha feito — me adaptei ao que fazia mais sentido para o projeto. Essa decisão demonstrou meu foco no resultado coletivo e minha abertura para aprender e evoluir com o time.
 
+#### Vídeo do projeto
+
 <video src="https://github.com/user-attachments/assets/aa396f3c-ee40-4ae3-ab7b-e323c8a6bbcc" width="150" controls></video>
 
 </br>
@@ -276,7 +285,8 @@ Nesse projeto, precisei tomar decisões e me adaptar a mudanças ao longo do cam
   ⭐ WE COLEB - JJM Log - Quarto Semestre (2024-2)
  </summary>
  
-<br />
+</br>
+
 Esse projeto foi desenvolvido no quarto semestre do curso, em parceria com a empresa de logística JJM Log.
  
 O problema surgiu a partir da dificuldade que a empresa enfrentava em gerenciar seus processos internos: muitos fluxos eram manuais, havia uso excessivo de ferramentas desconectadas e a comunicação entre os departamentos era limitada. Isso comprometia a eficiência e a visibilidade das operações.
@@ -339,6 +349,7 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 </br>
 
 #### Vídeo do projeto
+
 <video src="https://github.com/user-attachments/assets/ddea8a5f-4293-4174-9702-b6e122f60dfb" width="150" controls></video>
 
 </br>
@@ -351,7 +362,8 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
   ⭐ SistemaReembolso - GSW Software - Quinto semestre (2025-1)
  </summary>
  
-<br />
+</br>
+
 Esse projeto foi desenvolvido no quinto semestre do curso, em parceria com a empresa de tecnologia GSW Software.
  
 O problema surgiu a partir da preocupação da empresa em trazer mais praticidade e precisão no processo de solicitação de reembolsos pelos funcionários. Já que antes, tudo era feito manualmente.
@@ -448,6 +460,7 @@ Esse projeto me proporcionou a oportunidade de desenvolver várias competências
 > Sempre estive próxima do time, ajudando ativamente nos momentos de dificuldade. Um exemplo foi quando uma colega enfrentou problemas em uma funcionalidade que deveria funcionar corretamente, mas apresentava erros inexplicáveis. Como eu já havia feito uma tarefa semelhante, ela pediu ajuda. Nos reunimos em uma call, analisamos o código e resolvemos o problema juntas. Essa troca de conhecimento não só resolveu o erro, como fortaleceu o espírito de equipe. Além disso, eu e minha equipe mantivemos uma cultura de discussão saudável de ideias, onde todos opinavam sobre as melhores soluções para cada parte do sistema. Essa colaboração direta foi essencial para que conseguíssemos entregar as funcionalidades previstas dentro do prazo.
 
 #### Vídeo do projeto
+
 <video src="https://github.com/user-attachments/assets/a475174d-3e06-47bd-8e2b-1b541b7cef08" width="150" controls></video>
 
 </br>
