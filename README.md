@@ -436,9 +436,7 @@ Durante esse projeto, desenvolvi e consolidei as seguintes competências técnic
 * MySQL - Uso com ajuda;
 * Android e Android Studio - Uso com ajuda;
 * Expo - Uso com autonomia;
-* Figma - Uso com ajuda;
-* Jira - Uso com ajuda;
-* VSCode - Uso com autonomia.
+* Jira - Uso com ajuda.
 
 #### Soft Skills 
 Esse projeto me proporcionou a oportunidade de desenvolver várias competências interpessoais essenciais, com destaque para a responsabilidade, proatividade e colaboração com minha equipe.
