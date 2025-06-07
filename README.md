@@ -117,7 +117,7 @@ Esse primeiro projeto da API foi um grande marco no meu desenvolvimento pessoal 
 
 > Durante o projeto, adotei uma postura proativa e colaborativa com o time. Sempre que finalizava minhas tarefas, me colocava à disposição no grupo para auxiliar os colegas — mesmo sem ser solicitada. Busquei contribuir ativamente nas decisões de design e conteúdo: por exemplo, sugeri ajustes no tamanho de texto e imagens, recomendei o uso de imagens com links externos para ilustrar tecnologias citadas, e opinei sobre a quantidade ideal de exemplos por seção, visando uma leitura mais fluida e objetiva.
 
-> Valorizei a comunicação contínua: sempre respondia as mensagens no grupo e mantinha o time informado sobre o andamento das minhas tarefas, compartilhava se eu estava com dificuldades, se estava estudando algo novo ou se havia concluído alguma entrega. Essa transparência fortaleceu a integração da equipe e refletiu meu comprometimento com o resultado coletivo. Ao longo das sprints, compreendi melhor meu papel dentro da equipe e atuei com responsabilidade, empatia e colaboração.
+> Também valorizei a comunicação contínua: sempre respondia as mensagens no grupo e mantinha o time informado sobre o andamento das minhas tarefas, compartilhava se eu estava com dificuldades, se estava estudando algo novo ou se havia concluído alguma entrega. Essa transparência fortaleceu a integração da equipe e refletiu meu comprometimento com o resultado coletivo. Ao longo das sprints, compreendi melhor meu papel dentro da equipe e atuei com responsabilidade, empatia e colaboração.
 
 - Autoconfiança
 
