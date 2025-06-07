@@ -195,7 +195,7 @@ Esse projeto também me desafiou a sair da zona de conforto e aprimorar diversas
 
 - Proatividade na resolução de problemas
 
-> Em um momento crítico do projeto, o sistema deixou de rodar para toda a equipe, impedindo uma colega de concluir sua tarefa. Como facilitadora, entendi que esse bloqueio afetava diretamente a produtividade e o andamento da sprint. Me empenhei para identificar e resolver o problema, para isso, busquei soluções e testei alternativas até que o ambiente voltasse a funcionar. Esse esforço permitiu que minha colega retomasse seu trabalho e garantiu a continuidade do projeto.
+> Em um momento crítico do projeto, o sistema deixou de rodar para toda a equipe, impedindo uma colega de concluir sua tarefa. Como facilitadora, entendi que esse bloqueio afetava diretamente a produtividade e o andamento da sprint. Me empenhei para identificar e resolver o problema, para isso, busquei soluções e testei alternativas até que o ambiente voltasse a funcionar (Era um problema com a biblioteca do projeto, os arquivos não estavam sendo extraídos da forma correta). Esse esforço permitiu que minha colega retomasse seu trabalho e garantiu a continuidade do projeto.
 
 #### Vídeo do projeto
 
@@ -457,7 +457,7 @@ Esse projeto me proporcionou a oportunidade de desenvolver várias competências
 
 - Colaboração e trabalho em equipe
 
-> Sempre estive próxima do time, ajudando ativamente nos momentos de dificuldade. Um exemplo foi quando uma colega enfrentou problemas em uma funcionalidade que deveria funcionar corretamente, mas apresentava erros inexplicáveis. Como eu já havia feito uma tarefa semelhante, ela pediu ajuda. Nos reunimos em uma call, analisamos o código e resolvemos o problema juntas. Essa troca de conhecimento não só resolveu o erro, como fortaleceu o espírito de equipe. Além disso, eu e minha equipe mantivemos uma cultura de discussão saudável de ideias, onde todos opinavam sobre as melhores soluções para cada parte do sistema. Essa colaboração direta foi essencial para que conseguíssemos entregar as funcionalidades previstas dentro do prazo.
+> Sempre estive próxima do time, ajudando ativamente nos momentos de dificuldade. Um exemplo foi quando uma colega enfrentou problemas com a funcionalidade de "esquecer senha", ela deveria funcionar corretamente, mas apresentava erros inexplicáveis ao enviar o código de verificação para o email do usuário. Como eu já havia feito uma tarefa semelhante (Autenticação 2FA), ela pediu ajuda. Nos reunimos em uma call, analisamos o código e resolvemos o problema juntas. Essa troca de conhecimento não só resolveu o erro, como fortaleceu o espírito de equipe. Além disso, eu e minha equipe mantivemos uma cultura de discussão saudável de ideias, onde todos opinavam sobre as melhores soluções para cada parte do sistema. Essa colaboração direta foi essencial para que conseguíssemos entregar as funcionalidades previstas dentro do prazo.
 
 #### Vídeo do projeto
 
