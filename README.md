@@ -287,12 +287,12 @@ Solução: desenvolvemos um sistema web completo, com regras de negócio complex
 
 #### Tecnologias Utilizadas 
 O projeto envolveu o uso de diversas tecnologias modernas, tanto no frontend quanto no backend:
-* **🟦 TypeScript:** Linguagem principal no desenvolvimento do backend e frontend, garantindo maior segurança e organização do código;
-* **🟨 JavaScript:** Linguagem de programação usada em lógicas específicas de manipulação de dados, integração e scripts;
-* **🐬 MySQL:** Banco de dados relacional usado para armazenar informações e garantir integridade dos dados;
-* **⚛️ React:** Biblioteca JavaScript utilizada para construir a interface com componentes reutilizáveis e interativos;
-* **🌿 NodeJS:** Plataforma utilizada no desenvolvimento da API RESTful para consumo dos dados da aplicação;
-* **📝 HTML + 🎨 CSS:** Estruturação e estilização de componentes com foco em responsividade;
+* **🟦 TypeScript:** Linguagem principal no frontend e backend, garantindo tipagem estática e maior organização do código;
+* **🟨 JavaScript:** Aplicado em funcionalidades específicas de manipulação de dados, integrações e scripts auxiliares;
+* **🐬 MySQL:** Aplicado em funcionalidades específicas de manipulação de dados, integrações e scripts auxiliares;
+* **⚛️ React:** Biblioteca JavaScript usada para construir a interface com componentes reutilizáveis e responsivos;
+* **🌿 NodeJS:** Plataforma utilizada no backend para criação da API RESTful e lógica de negócio do sistema;
+* **📝 HTML + 🎨 CSS:** Estruturação e estilização de componentes com foco em responsividade e acessibilidade;
 * **🖼️ Figma:** Ferramenta de design para o protótipo do site;
 * **🧩 Trello:** Ferramenta para gestão de tarefas do projeto;
 * **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
@@ -334,7 +334,7 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 
 - Colaboração
   
-> Minha postura ao longo do projeto foi totalmente colaborativa, tanto nas tarefas de front-end quanto nas integrações com o back-end. Evitei me limitar apenas às áreas de maior familiaridade e aceitei trabalhar em funcionalidades que contribuíssem para o sucesso do projeto. Um exemplo claro disso foi quando surgiu a necessidade de implementar o upload de arquivos, algo que exigia também lógica no back-end — uma área em que eu ainda estava me desenvolvendo. Mesmo assim, me coloquei à disposição da equipe, estudei o necessário e entreguei a funcionalidade completa. Essa atitude reforçou minha disposição para aprender, colaborar e assumir responsabilidades quando o time precisava.
+> Minha postura ao longo do projeto foi totalmente colaborativa, tanto nas tarefas de frontend quanto nas integrações com o backend. Evitei me limitar apenas às áreas de maior familiaridade e aceitei trabalhar em funcionalidades que contribuíssem para o sucesso do projeto. Um exemplo claro disso foi quando surgiu a necessidade de implementar o upload de arquivos, algo que exigia também lógica backend — uma área em que eu ainda estava me desenvolvendo. Mesmo assim, me coloquei à disposição da equipe, estudei o necessário e entreguei a funcionalidade. Essa atitude reforçou minha disposição de aprender, colaborar e assumir responsabilidades quando o time precisava.
 
 </br>
 
@@ -354,11 +354,11 @@ Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
 <br />
 Esse projeto foi desenvolvido no quinto semestre do curso, em parceria com a empresa de tecnologia GSW Software.
  
-O problema surgiu a partir da preocupação da empresa em trazer mais praticidade e precisão no processo de solicitação de reembolsos pelos funcionários.
+O problema surgiu a partir da preocupação da empresa em trazer mais praticidade e precisão no processo de solicitação de reembolsos pelos funcionários. Já que antes, tudo era feito manualmente.
 
 Solução: desenvolvemos uma solução completa composta por dois sistemas integrados:
 
-- Um aplicativo móvel voltado para os funcionários, com uma interface prática e amigável para o registro de despesas reembolsáveis, incluindo anexo de comprovantes.
+- Um aplicativo móvel voltado para os funcionários, com uma interface prática e amigável para o registro de despesas reembolsáveis, incluindo anexo de comprovantes;
 
 - Um sistema web corporativo exclusivo para gerentes, onde é possível acompanhar, revisar e aprovar solicitações de reembolso em tempo real.
  
@@ -382,7 +382,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 #### Contribuições Pessoais 
 Atuei como Product Owner e desenvolvedora, com foco em alinhar as funcionalidades às necessidades do cliente e garantir uma ótima experiência do usuário.
 
-Principais responsabilidades como Product Owner:
+**Principais responsabilidades como Product Owner:**
 - Definição do MVP: Fui responsável por definir o MVP (Produto Mínimo Viável), priorizando funcionalidades essenciais e garantindo o alinhamento com as necessidades reais da empresa parceira;
 - Gestão de Backlog: Criei e mantive o backlog, redigi histórias de usuário detalhadas e conduzi reuniões de planejamento com clareza e visão estratégica;
 - Facilitação de sprints: Trabalhei lado a lado com a Scrum Master para definição e monitoramento do burndown e alinhamento entre time e cliente;
@@ -390,7 +390,7 @@ Principais responsabilidades como Product Owner:
 - Apresentações ao cliente: Apresentei as entregas ao cliente em cada sprint, garantindo a coleta de feedbacks e ajustando o sistema conforme necessário;
 - Documentação: Cuidei da documentação técnica e funcional no GitHub, assegurando acessibilidade e transparência.
 
-Principais entregas como desenvolvedora (app mobile):
+**Principais entregas como desenvolvedora (app mobile):**
 - Base do projeto: Estruturei a base do projeto no Expo, organizei as rotas principais e criei a navegação com tabbar totalmente personalizada e intuitiva;
 - Pacotes de despesas: Modelei o backend e implementei toda a funcionalidade de pacotes de despesas, permitindo o agrupamento de despesas e o envio do reembolso de forma coletiva;
 - Tela de Pacotes: Desenvolvi a tela de pacotes, com filtros por status (rascunho, aguardando aprovação, recusado, aprovado, parcialmente aprovado) e por projeto selecionado;
@@ -404,7 +404,7 @@ Principais entregas como desenvolvedora (app mobile):
 - Status de projetos: Destaquei visualmente os projetos ativos e encerrados na home;
 - Resumo na tela de Histórico: Desenvolvi o resumo financeiro do usuário na tela de histórico, incluindo totais por status de aprovação.
 
-Principais entregas como desenvolvedora (sistema web):
+**Principais entregas como desenvolvedora (sistema web):**
 - Login exclusivo para gerentes: Desenvolvi o login completo com frontend e backend, permitindo que apenas usuários com role: gerente tivessem acesso ao sistema corporativo;
 - Autenticação em duas etapas: Desenvolvi a autenticação em duas etapas para gerentes, com lógica de verificação de código enviado por e-mail;
 - Persistência de sessão: Implementei persistência de sessão com uso de AsyncStorage, mantendo o gerente logado mesmo após recarregar a página;
@@ -424,7 +424,7 @@ Durante esse projeto, desenvolvi e consolidei as seguintes competências técnic
 * Expo - Uso com autonomia;
 * Figma - Uso com ajuda;
 * Jira - Uso com ajuda;
-* VSCode - Uso com autonomia;
+* VSCode - Uso com autonomia.
 
 #### Soft Skills 
 Esse projeto me proporcionou a oportunidade de desenvolver várias competências interpessoais essenciais, com destaque para a responsabilidade, proatividade e colaboração com minha equipe.
@@ -433,20 +433,19 @@ Esse projeto me proporcionou a oportunidade de desenvolver várias competências
 
 - Responsabilidade e organização
 
-> Durante o projeto, atuei como Product Owner, o que exigiu um alto nível de organização e comprometimento desde o início.
-No primeiro dia da primeira sprint, já cheguei com o backlog completo, contendo user stories claras, definição de prioridades e o escopo do MVP. Conduzi a reunião de planejamento, apresentando o que deveria ser feito em cada sprint, com clareza e visão estratégica. Quando surgiram dúvidas, não hesitei em entrar em contato com o cliente imediatamente para buscar respostas, garantindo que a equipe tivesse sempre um direcionamento claro. Além disso, como nesse semestre tivemos apenas 3 sprints (ao invés de 4), planejei cuidadosamente o escopo de cada entrega para que conseguíssemos gerar valor real a cada iteração, sem sobrecarregar o time. Mesmo como PO, não me eximi de responsabilidades técnicas: fui responsável por criar a base do projeto no VSCode, o que permitiu que todos os colegas pudessem iniciar suas tarefas. Concluí essa entrega no primeiro dia, pois sabia que toda a equipe dependia dela.
+> Durante o projeto, atuei como Product Owner, o que exigiu um alto nível de organização e comprometimento desde o início. No primeiro dia da primeira sprint, já cheguei com o backlog completo, contendo user stories claras, definição de prioridades e o escopo do MVP. Conduzi a reunião de planejamento, apresentando o que deveria ser feito em cada sprint, com clareza e visão estratégica. Quando surgiram dúvidas, não hesitei em entrar em contato com o cliente imediatamente para buscar respostas, garantindo que a equipe tivesse sempre um direcionamento claro. Além disso, como nesse semestre tivemos apenas 3 sprints (ao invés de 4), planejei cuidadosamente o escopo de cada entrega para que conseguíssemos gerar valor real a cada iteração, sem sobrecarregar o time. Mesmo como PO, não me eximi de responsabilidades técnicas: fui responsável por criar a base do projeto no VSCode, o que permitiu que todos os colegas pudessem iniciar suas tarefas. Concluí essa entrega no primeiro dia, pois sabia que toda a equipe dependia dela.
 
 - Proatividade na resolução de problemas
 
-> Após a primeira review com o cliente, recebemos um feedback importante: o fluxo de envio das despesas, uma por uma, tornava o processo muito trabalhoso para os gerentes. Isso exigia uma mudança significativa no modelo de dados e no fluxo do sistema. Me comprometi, então, a encontrar uma solução. Implementei a ideia de "pacotes de despesas": as despesas continuariam sendo registradas individualmente, mas o reembolso seria solicitado em grupo, por meio do envio de um pacote contendo vários IDs de despesas. Essa mudança exigiu reformulação no backend, frontend e integração entre os dois sistemas — e mesmo assim, foi bem recebida por toda a equipe e pelo cliente.
+> Após a primeira review com o cliente, recebemos um feedback importante: o fluxo de envio das despesas, uma por uma, tornava o processo muito trabalhoso para os gerentes. Isso exigia uma grande mudança no modelo de dados e no fluxo do sistema. Me comprometi, então, a encontrar uma solução. Implementei a ideia de "pacotes de despesas": as despesas continuariam sendo registradas individualmente, mas o reembolso seria solicitado em grupo, por meio do envio de um pacote contendo vários IDs de despesas. Essa mudança exigiu reformulação no backend, frontend e integração entre os dois sistemas — e mesmo assim, foi bem recebida por toda a equipe e pelo cliente.
 
 - Foco em Entregas com Qualidade
   
-> Sempre tive como prioridade a entrega de valor real com qualidade. Para isso, mantive a documentação no GitHub clara, organizada e visualmente agradável — facilitando a compreensão por qualquer membro da equipe ou externo. No desenvolvimento, me preocupei com a clareza do código: escrevi comentários explicativos, segui boas práticas e me coloquei no lugar de outro desenvolvedor que poderia dar manutenção posteriormente. Um exemplo marcante foi na implementação da autenticação em dois fatores (2FA). Por diversas vezes, a funcionalidade parava de funcionar corretamente após commits de colegas. Eu testava constantemente, identificava os problemas e reaplicava a lógica de forma persistente. Mesmo corrigindo o mesmo ponto mais de uma vez, mantive o compromisso de entregar um sistema funcional, estável e sem falhas.
+> Sempre tive como prioridade a entrega de valor real com qualidade. Para isso, mantive a documentação no GitHub clara, organizada e visualmente agradável — facilitando a compreensão por qualquer membro da equipe ou externo. No desenvolvimento, me preocupei com a clareza do código: escrevi comentários explicativos, segui boas práticas e me coloquei no lugar de outro desenvolvedor que poderia dar manutenção posteriormente. Um exemplo marcante de foco em entregas com qualidade foi na implementação da autenticação em dois fatores (2FA). Por diversas vezes, a funcionalidade parava de funcionar corretamente após commits de colegas. Eu testava constantemente, identificava os problemas e reaplicava a lógica de forma persistente. Mesmo corrigindo o mesmo ponto mais de uma vez, mantive o compromisso de entregar um sistema funcional, estável e sem falhas.
 
 - Colaboração e trabalho em equipe
 
-> Sempre estive próxima do time, ajudando ativamente nos momentos de dificuldade. Um exemplo foi quando uma colega enfrentou problemas em uma funcionalidade que deveria funcionar corretamente, mas apresentava erros inexplicáveis. Como eu já havia feito algo semelhante, ela pediu ajuda. Nos reunimos em uma call, analisamos o código juntas e resolvemos o problema colaborativamente. Essa troca de conhecimento não só resolveu o erro, como fortaleceu o espírito de equipe. Além disso, mantivemos uma cultura de discussão saudável de ideias, onde todos opinavam sobre as melhores soluções para cada parte do sistema. Essa colaboração direta foi essencial para que conseguíssemos entregar as funcionalidades previstas dentro do prazo.
+> Sempre estive próxima do time, ajudando ativamente nos momentos de dificuldade. Um exemplo foi quando uma colega enfrentou problemas em uma funcionalidade que deveria funcionar corretamente, mas apresentava erros inexplicáveis. Como eu já havia feito uma tarefa semelhante, ela pediu ajuda. Nos reunimos em uma call, analisamos o código e resolvemos o problema juntas. Essa troca de conhecimento não só resolveu o erro, como fortaleceu o espírito de equipe. Além disso, eu e minha equipe mantivemos uma cultura de discussão saudável de ideias, onde todos opinavam sobre as melhores soluções para cada parte do sistema. Essa colaboração direta foi essencial para que conseguíssemos entregar as funcionalidades previstas dentro do prazo.
 
 #### Vídeo do projeto
 <video src="https://github.com/user-attachments/assets/a475174d-3e06-47bd-8e2b-1b541b7cef08" width="150" controls></video>
