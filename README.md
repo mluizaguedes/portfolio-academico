@@ -124,7 +124,7 @@ Esse primeiro projeto da API foi um grande marco no meu desenvolvimento pessoal 
 > No início do projeto, senti bastante insegurança em assumir tarefas de programação, por ser meu primeiro contato com a área, preferindo atividades de estudo e documentação. Com o tempo, entendi que o meu crescimento viria justamente dos desafios técnicos. Então, assumi o compromisso de mudar minha postura e comecei a aplicar, na prática, os conhecimentos que estava adquirindo. Me propus a trabalhar na responsividade do site usando CSS e a implementar a lógica do quiz interativo com JavaScript. E fui capaz de entregar as funcionalidades completas e funcionais. Sempre que surgiam dúvidas, procurava meus colegas com humildade e abertura para aprender. À medida que via minha evolução, fui ganhando segurança para assumir tarefas cada vez mais complexas nos próximos projetos.
 
 <video src="https://github.com/user-attachments/assets/1776adc3-9e18-42c6-8b43-cd75a83feab4" width="150" controls></video>
-* [Acesse o site pelo seu computador ou celular!](https://techschool.pedrohenribeiro.com/)
+* [Acesse o site pelo seu computador ou celular!](https://techschool.pedrohenribeiro.com/) *(Segure `Ctrl` e clique para abrir em nova guia)*
 
 </br>
 </details>
