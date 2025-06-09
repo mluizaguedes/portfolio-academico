@@ -369,7 +369,7 @@ Durante o projeto, além das competências técnicas, pude fortalecer habilidade
  
 </br>
 
-Este projeto foi desenvolvido no quinto semestre do curso, em parceria com a GSW Software, uma empresa referência em desenvolvimento de software corporativo, automação de processos e integração de sistemas.
+Este projeto foi desenvolvido no quinto semestre do curso, em parceria com a GSW Software, uma empresa de tecnologia referência em desenvolvimento de software corporativo, automação de processos e integração de sistemas.
 
 O problema surgiu a partir da dificuldade da empresa em tornar o processo de reembolso mais prático, ágil e seguro. Até então, os registros eram manuais, propensos a erros, e geravam atrasos na análise e aprovação das solicitações, comprometendo a produtividade dos colaboradores e gestores.
 
