@@ -216,12 +216,12 @@ Esse projeto também me desafiou a sair da zona de conforto e aprimorar diversas
 
 <br/>
 
-Esse projeto foi desenvolvido no terceiro semestre do curso, em parceria com a empresa de tecnologia Pro4Tech.
+Este projeto foi desenvolvido durante o terceiro semestre do curso, em parceria com a Pro4Tech, uma empresa especializada em transformação digital. A Pro4Tech atua com soluções personalizadas em desenvolvimento de aplicativos web e mobile, inteligência artificial, BI, RPA, IoT e produtividade corporativa.
  
-O problema surgiu a partir da dificuldade da empresa em gerenciar e interpretar grandes volumes de dados de vendas, que estavam sendo armazenados em planilhas Excel. A visualização de informações importantes era demorada, limitada e ineficiente para tomada de decisões estratégicas.
+O problema surgiu a partir da dificuldade da empresa em gerenciar e interpretar grandes volumes de dados de vendas, que estavam sendo armazenados manualmente em planilhas Excel. Esse processo limitava a análise estratégica e comprometia a agilidade na tomada de decisões.
 
-Solução: desenvolvemos uma aplicação web que facilita a análise de vendas por meio de dashboards dinâmicos. A aplicação importa os dados de arquivos Excel e os exibe em gráficos e tabelas interativas, com suporte a: Filtros personalizados por período, produto, vendedor e cliente; cálculos automáticos de comissões; visualizações específicas para gerentes e funcionários; e interface responsiva e de fácil uso.
- 
+Solução: desenvolvemos uma aplicação web com dashboards dinâmicos, capaz de transformar planilhas Excel em visualizações interativas. A ferramenta calcula comissões automaticamente, permite filtros personalizados e apresenta dados segmentados por perfil. A interface é responsiva, clara e fácil de usar. A solução centraliza informações importantes e otimiza a gestão de vendas.
+
 [Repositório GitHub - Dashboard-Pro4Tech](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech) 
 
 #### Tecnologias Utilizadas 
@@ -291,11 +291,11 @@ Nesse projeto, precisei tomar decisões e me adaptar a mudanças ao longo do cam
  
 </br>
 
-Esse projeto foi desenvolvido no quarto semestre do curso, em parceria com a empresa de logística JJM Log.
+Este projeto foi desenvolvido no quarto semestre do curso, em parceria com a JJM Log, empresa especializada em soluções completas de gestão logística. A JJM atua com transporte aéreo e rodoviário, logística reversa, armazenagem, operações personalizadas e tecnologia para otimização da cadeia logística.
  
-O problema surgiu a partir da dificuldade que a empresa enfrentava em gerenciar seus processos internos: muitos fluxos eram manuais, havia uso excessivo de ferramentas desconectadas e a comunicação entre os departamentos era limitada. Isso comprometia a eficiência e a visibilidade das operações.
+O problema surgiu a partir da dificuldade que a empresa enfrentava em gerenciar seus processos internos: muitos fluxos eram manuais, havia uso excessivo de ferramentas desconectadas e baixa integração entre os setores, o que comprometia a eficiência operacional.
 
-Solução: desenvolvemos um sistema web completo, com regras de negócio complexas e hospedado em ambiente de produção (com deploy). O foco principal foi facilitar os fluxos de trabalho e promover a colaboração entre equipes. A solução automatizou tarefas que antes eram feitas manualmente, oferecendo à empresa uma visão centralizada de suas demandas e atividades em tempo real.
+Solução: desenvolvemos um sistema web completo com regras de negócio complexas e deploy em produção. A plataforma permite o registro detalhado de entregas pelos colaboradores, controle de dados logísticos (como consumo e quilometragem) e cadastro de clientes e serviços. Também inclui um dashboard com gráficos filtráveis para análise operacional e uma área interna para upload de documentos, facilitando a atuação do RH. A solução centralizou a gestão e promoveu mais agilidade e integração entre setores.
  
 [Repositório GitHub - WE-COLEB-JJM-Log](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log) 
 
@@ -369,15 +369,11 @@ Durante o projeto, além das competências técnicas, pude fortalecer habilidade
  
 </br>
 
-Esse projeto foi desenvolvido no quinto semestre do curso, em parceria com a empresa de tecnologia GSW Software.
- 
-O problema surgiu a partir da preocupação da empresa em trazer mais praticidade e precisão no processo de solicitação de reembolsos pelos funcionários. Já que antes, tudo era feito manualmente.
+Este projeto foi desenvolvido no quinto semestre do curso, em parceria com a GSW Software, uma empresa referência em desenvolvimento de software corporativo, automação de processos e integração de sistemas. A GSW atua com ERPs (SAP, Dynamics 365), CRM, RPA, BPO, soluções fiscais e jurídicas, e possui presença global (Brasil, EUA e Europa), além de certificação ISO 27001 em segurança da informação.
 
-Solução: desenvolvemos uma solução completa composta por dois sistemas integrados:
+O problema surgiu a partir da dificuldade da empresa em tornar o processo de reembolso mais prático, ágil e seguro. Até então, os registros eram manuais, propensos a erros, e geravam atrasos na análise e aprovação das solicitações, comprometendo a produtividade dos colaboradores e gestores.
 
-- Um aplicativo móvel voltado para os funcionários, com uma interface prática e amigável para o registro de despesas reembolsáveis, incluindo anexo de comprovantes;
-
-- Um sistema web corporativo exclusivo para gerentes, onde é possível acompanhar, revisar e aprovar solicitações de reembolso em tempo real.
+Solução: desenvolvemos uma solução completa composta por dois sistemas integrados. Um aplicativo móvel que oferece aos funcionários uma forma prática e rápida de registrar despesas, anexar comprovantes e acompanhar o status das solicitações diretamente pelo celular. E um sistema web corporativo voltado para os gerentes, com funcionalidades para revisar, acompanhar e aprovar os reembolsos em tempo real, promovendo agilidade, controle e transparência em todo o processo.
  
 [Repositório GitHub - SistemaReembolso-GSW-Software](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software) 
 
