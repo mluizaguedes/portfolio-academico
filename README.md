@@ -369,7 +369,7 @@ Durante o projeto, além das competências técnicas, pude fortalecer habilidade
  
 </br>
 
-Este projeto foi desenvolvido no quinto semestre do curso, em parceria com a GSW Software, uma empresa referência em desenvolvimento de software corporativo, automação de processos e integração de sistemas. A GSW atua com ERPs (SAP, Dynamics 365), CRM, RPA, BPO, soluções fiscais e jurídicas, e possui presença global (Brasil, EUA e Europa), além de certificação ISO 27001 em segurança da informação.
+Este projeto foi desenvolvido no quinto semestre do curso, em parceria com a GSW Software, uma empresa referência em desenvolvimento de software corporativo, automação de processos e integração de sistemas.
 
 O problema surgiu a partir da dificuldade da empresa em tornar o processo de reembolso mais prático, ágil e seguro. Até então, os registros eram manuais, propensos a erros, e geravam atrasos na análise e aprovação das solicitações, comprometendo a produtividade dos colaboradores e gestores.
 
