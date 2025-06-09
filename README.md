@@ -403,10 +403,10 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 Atuei como Product Owner e desenvolvedora, com foco em alinhar as funcionalidades às necessidades do cliente e garantir uma ótima experiência do usuário.
 
 **Principais contribuições como Product Owner:**
-- Gestão e Priorização do Backlog: Criei e mantive um Product Backlog completo e constantemente atualizado, com histórias de usuário bem estruturadas, critérios de aceitação claros e foco na priorização por valor. Reavaliei prioridades a cada sprint, conforme novos feedbacks eram recebidos, sempre buscando otimizar a entrega contínua de valor;
-- Definição do MVP e Visão de Produto: Fui responsável por definir o MVP (Produto Mínimo Viável), priorizando funcionalidades essenciais e garantindo o alinhamento com as necessidades reais da empresa parceira;
-- Facilitação e Planejamento de Sprints: Planejei cuidadosamente cada sprint, equilibrando escopo, tempo e capacidade do time. Trabalhei junto com a Scrum Master no acompanhamento do burndown e no gerenciamento de impedimentos, garantindo fluidez no processo e entregas dentro do prazo;
-- Alinhamento entre Time e Cliente: Atuei como ponte entre o time de desenvolvimento e o cliente, promovendo a comunicação constante. Fiz perguntas estratégicas, esclareci requisitos diretamente com o cliente e garanti que todos tivessem a mesma compreensão sobre o produto a ser entregue;
+- Gestão e priorização do backlog: Criei e mantive um Product Backlog completo e constantemente atualizado, com histórias de usuário bem estruturadas, critérios de aceitação claros e foco na priorização por valor. Reavaliei prioridades a cada sprint, conforme novos feedbacks eram recebidos, sempre buscando otimizar a entrega contínua de valor;
+- Definição do MVP e visão de produto: Fui responsável por definir o MVP (Produto Mínimo Viável), priorizando funcionalidades essenciais e garantindo o alinhamento com as necessidades da empresa parceira;
+- Facilitação e planejamento de sprints: Planejei cuidadosamente cada sprint, equilibrando escopo, tempo e capacidade do time. Trabalhei junto com a Scrum Master no acompanhamento do burndown e no gerenciamento de impedimentos, garantindo fluidez no processo e entregas dentro do prazo;
+- Alinhamento entre time e cliente: Atuei como ponte entre o time de desenvolvimento e o cliente, promovendo a comunicação constante. Fiz perguntas estratégicas, esclareci requisitos diretamente com o cliente e garanti que todos tivessem a mesma compreensão sobre o produto a ser entregue;
 - Apresentações ao cliente: Apresentei as entregas ao cliente ao final de cada sprint, explicando o que foi desenvolvido, ouvindo os feedbacks e propondo ajustes quando necessário para garantir que o sistema estivesse sempre alinhado com as expectativas e necessidades da empresa;
 - Documentação: Organizei e mantive a documentação técnica e funcional no GitHub, assegurando acessibilidade e transparência.
 
