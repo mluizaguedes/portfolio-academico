@@ -159,10 +159,13 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **🧠 Eclipse:** IDE utilizada para desenvolvimento do projeto em Java.
  
 #### Contribuições Pessoais 
-Atuei como Scrum Master e desenvolvedora, conciliando tarefas técnicas com a liderança dos processos ágeis da equipe.
+Atuei como Scrum Master e desenvolvedora, liderando os processos ágeis do time, facilitando a comunicação e garantindo entregas técnicas de qualidade.
 
 Entre minhas principais contribuições estão:
-- Coordenação ágil da equipe: como Scrum Master, conduzi as *dailys*, planejei as sprints e acompanhei o progresso no Trello, incentivando uma rotina colaborativa;
+- Coordenação ágil da equipe: conduzi dailys objetivas, planejei sprints com clareza e mantive o time focado nos objetivos. Estimulei a colaboração e o comprometimento de todos os membros;
+- Facilitação e apoio contínuo: estive sempre acessível e disponível, removendo impedimentos técnicos e ajudando colegas a superar bloqueios sem perder o ritmo de entrega;
+- Gestão de progresso: acompanhei o andamento das sprints por meio do Trello e do burndown chart, apresentando os resultados de forma transparente ao professor orientador (M2);
+- Promoção da transparência e alinhamento: garanti que toda a equipe estivesse atualizada sobre decisões, prazos e mudanças no projeto, fortalecendo a confiança e a organização interna;
 - Comunicação com stakeholders: representei a equipe nas reuniões semanais com o professor orientador (M2), elaborando resumos claros e objetivos do andamento do projeto;
 - Gestão de repositório GitHub: colaborei com a Product Owner para garantir que a documentação no GitHub refletisse corretamente o progresso do projeto;
 - Modelagem UML: fui responsável por criar e atualizar o diagrama de classes, mantendo a arquitetura clara e consistente com as mudanças no código;
