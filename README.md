@@ -6,15 +6,15 @@ Oie! Me chamo Maria Luiza Guedes da Silva e tenho 20 anos. Atualmente, curso An�
 
 **Minha Jornada até Aqui**
 
-No final do ensino fundamental, eu ainda não tinha certeza sobre qual carreira seguir. Em busca de me descobrir profissionalmente, optei por um curso técnico em Marketing integrado ao ensino médio na Etec. A experiência foi enriquecedora e contribuiu para meu amadurecimento profissional, mas percebi que não era exatamente a área na qual eu me via atuando no futuro.
+No final do ensino fundamental, eu ainda não tinha certeza sobre qual carreira seguir. Em busca de me descobrir profissionalmente, optei por um curso técnico em Marketing integrado ao ensino médio na Etec. A experiência foi enriquecedora e contribuiu muito para o meu amadurecimento profissional, mas percebi que não era exatamente a área na qual eu me via atuando no futuro.
 
-Foi então que decidi mudar de direção e comecei a pesquisar sobre os cursos disponíveis na Fatec. Percebi que Análise e Desenvolvimento de Sistemas se encaixava muito bem ao meu perfil — atenção aos detalhes, lógica e organização.
+Foi então que decidi mudar de direção e comecei a pesquisar sobre os cursos disponíveis na Fatec. Percebi que Análise e Desenvolvimento de Sistemas se encaixava muito bem ao meu perfil: atenção aos detalhes, lógica e organização!
 
-Durante a faculdade, tenho me dedicado à área de desenvolvimento web, com foco em linguagens como JavaScript e TypeScript e tecnologias como React. Também tenho tido oportunidade de trabalhar com banco de dados MySQL e MongoDB, e explorar recursos de redes, incluindo AWS e Linux.
+Durante a faculdade, tenho me dedicado à área de desenvolvimento web, com foco em linguagens como JavaScript e TypeScript e tecnologias como React. Também tenho tido oportunidade de trabalhar com banco de dados MySQL e MongoDB, por exemplo, e explorar recursos de redes, incluindo AWS e Linux.
 
-Tenho experiência prática em projetos utilizando metodologias ágeis, como Scrum e Kanban. Já atuei como Product Owner, Scrum Master e desenvolvedora (Dev Team), o que me proporcionou uma visão mais ampla e colaborativa dos processos de desenvolvimento.
+Tenho experiência prática em projetos utilizando metodologias ágeis Scrum e Kanban. Já atuei como Product Owner, Scrum Master e desenvolvedora (Dev Team), o que me proporcionou uma visão mais ampla e colaborativa dos processos de desenvolvimento.
 
-Atualmente, busco minha primeira experiência formal de trabalho na área de tecnologia. Acredito que tenho muito a contribuir, e também muito a aprender. Estou comprometida em seguir evoluindo constantemente, tanto em habilidades técnicas quanto interpessoais.
+Atualmente, busco meu primeiro emprego na área da tecnologia. Acredito que tenho muito a contribuir, e também muito a aprender. Estou comprometida a continuar evoluindo, tanto em habilidades técnicas quanto interpessoais.
 
 
 ## Contatos
