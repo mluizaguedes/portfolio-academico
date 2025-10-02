@@ -482,8 +482,10 @@ Esse projeto me proporcionou a oportunidade de desenvolver várias competências
 
 <details>
  <summary>
-  ⭐ ' ' - Sexto Semestre (2025-2)
+  ⭐ NutriMind - Xertica - Sexto Semestre (2025-2)
  </summary>
+
+ [Repositório GitHub - NutriMind-Xertica](https://github.com/Equipe-Meta-Code/NutriMind-Xertica) 
 
 </br>
 </details>
