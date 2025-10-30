@@ -93,7 +93,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **🎨 CSS:** Estilização do layout e responsividade;
 * **🖼️ Figma:** Ferramenta de design para o protótipo do site;
 * **🧩 Trello:** Ferramenta para gestão de tarefas do projeto;
-* **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
+* **🔵 VSCode:** Editor de código fonte utilizado durante o projeto.
  
 #### Contribuições Pessoais 
 Atuei como desenvolvedora front-end no projeto, com foco na acessibilidade e responsividade do site e na clareza do conteúdo.
@@ -240,7 +240,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **💅 SCSS:** Pré-processador CSS adotado para estilização modular e responsiva do layout;
 * **🖼️ Figma:** Ferramenta de design para o protótipo do site;
 * **🧩 Trello:** Ferramenta para gestão de tarefas do projeto;
-* **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
+* **🔵 VSCode:** Editor de código fonte utilizado durante o projeto.
  
 #### Contribuições Pessoais 
 Atuei como desenvolvedora, com foco na criação de uma interface bonita, interativa e funcional. Tive participação em diversas partes do projeto, desde telas mais simples até integrações com o backend.
@@ -315,7 +315,7 @@ O projeto envolveu o uso de diversas tecnologias modernas, tanto no frontend qua
 * **📝 HTML + 🎨 CSS:** Estruturação e estilização de componentes com foco em responsividade e acessibilidade;
 * **🖼️ Figma:** Ferramenta de design para o protótipo do site;
 * **🧩 Trello:** Ferramenta para gestão de tarefas do projeto;
-* **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
+* **🔵 VSCode:** Editor de código fonte utilizado durante o projeto.
  
 #### Contribuições Pessoais 
 Atuei como desenvolvedora front-end no projeto, com foco em entregar uma interface funcional e visualmente agradável. Minha participação foi ativa tanto no desenvolvimento das telas quanto nas integrações com o backend.
@@ -399,7 +399,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **📋 Jira:** Utilizada para gestão ágil de tarefas, acompanhamento das sprints e organização do time;
 * **💬 Slack:** Plataforma de comunicação utilizada para troca rápida de informações entre equipe e cliente, facilitando alinhamentos durante as sprints;
 * **🍴 Fork:** Sistema de versionamento de código baseado no Git, utilizado para a criação de ramificações seguras dos repositórios, possibilitando o trabalho paralelo entre os membros da equipe;
-* **🔷 VSCode:** Editor de código fonte utilizado durante o projeto.
+* **🔵 VSCode:** Editor de código fonte utilizado durante o projeto.
  
 #### Contribuições Pessoais 
 Atuei como Product Owner e desenvolvedora, com foco em alinhar as funcionalidades às necessidades do cliente e garantir uma ótima experiência do usuário.
@@ -497,13 +497,14 @@ Solução: desenvolvemos o NutriMind, uma plataforma inteligente que realiza uma
 
 #### Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas nesse projeto: 
-* **Vue.js:** Desenvolvimento da interface do sistema;
-* **Flask (Python):** Backend do agente de IA e integração entre os múltiplos agentes inteligentes;
-* **Java e Spring Boot:** Backend principal da aplicação;
-* **Google ADK:** Implementação e orquestração dos agentes inteligentes;
-* **Swagger:** Documentação da API;
-* **Figma:** Prototipação das interfaces;
-* **Jira, Teams e VSCode:** Gestão ágil, comunicação e desenvolvimento colaborativo.
+* **🟩 Vue.js:** Desenvolvimento da interface do sistema, garantindo interatividade e fluidez na comunicação com o usuário;
+* **🐍 Python:** Desenvolvimento do backend responsável pela lógica do agente de IA;
+* **🧪 Flask:** Integração entre o frontend e o backend do agente de IA, viabilizando a troca de mensagens e dados;
+* **☕ Java & 🌱 Spring Boot:** Implementação do backend principal da aplicação, responsável pela gestão de usuários e dados;
+* **🔷 Google ADK:** Implementação e orquestração dos múltiplos agentes inteligentes;
+* **📘 Swagger:** Documentação da API para facilitar o entendimento e integração entre os times;
+* **🖼️ Figma:** Prototipação e referência visual das interfaces;
+* **📋 Jira, 💬 Teams e 🔵 VSCode:** Ferramentas utilizadas para gestão ágil, comunicação e desenvolvimento colaborativo.
 
 #### Contribuições Pessoais
 Atuei como desenvolvedora full-stack e engenheira de IA, responsável por projetar e integrar a camada inteligente da aplicação, além de conectar o frontend e o backend.
