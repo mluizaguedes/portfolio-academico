@@ -485,7 +485,54 @@ Esse projeto me proporcionou a oportunidade de desenvolver várias competências
   ⭐ NutriMind - Xertica - Sexto Semestre (2025-2)
  </summary>
 
- [Repositório GitHub - NutriMind-Xertica](https://github.com/Equipe-Meta-Code/NutriMind-Xertica) 
+</br>
+
+Esse projeto foi desenvolvido no sexto semestre do curso, em parceria com a Xertica, uma empresa especializada em soluções tecnológicas em nuvem e inteligência artificial.
+
+O desafio surgiu a partir da dificuldade e do alto custo do acesso a orientações nutricionais individualizadas. A proposta era unir IA generativa e supervisão profissional (modelo Human-in-the-Loop) para oferecer planos alimentares e recomendações de saúde personalizadas.
+
+Solução: desenvolvemos o NutriMind, uma plataforma inteligente que realiza uma anamnese interativa com o usuário e gera planos alimentares personalizados, receitas, conselhos nutricionais e informações sobre alimentos. O sistema utiliza múltiplos agentes especializados interconectados, garantindo precisão, contexto e respostas contextualizadas ao perfil do usuário.
+
+[Repositório GitHub - NutriMind-Xertica](https://github.com/Equipe-Meta-Code/NutriMind-Xertica) 
+
+#### Tecnologias Utilizadas
+As seguintes tecnologias foram utilizadas nesse projeto: 
+* **Vue.js:** Desenvolvimento da interface do sistema;
+* **Flask (Python):** Backend do agente de IA e integração entre os múltiplos agentes inteligentes;
+* **Java e Spring Boot:** Backend principal da aplicação;
+* **Google ADK:** Implementação e orquestração dos agentes inteligentes;
+* **Swagger:** Documentação da API;
+* **Figma:** Prototipação das interfaces;
+* **Jira, Teams e VSCode:** Gestão ágil, comunicação e desenvolvimento colaborativo.
+
+#### Contribuições Pessoais
+Atuei como desenvolvedora full-stack e engenheira de IA, responsável por projetar e integrar a camada inteligente da aplicação, além de conectar o frontend e o backend.
+
+**Principais contribuições técnicas:**
+- Desenvolvimento da interface do chat em Vue.js, exibindo as interações do usuário com o agente de IA conforme o design criado no Figma;
+- Integração completa do frontend com o backend em Flask, garantindo comunicação em tempo real entre o usuário e os agentes;
+- Desenho da arquitetura do agente e do sistema, evoluindo o modelo inicial de single agent para uma arquitetura multiagente;
+- Criação do Root Agent e de seis agentes especialistas, responsáveis por:
+ - Gerar e salvar planos alimentares personalizados;
+ - Criar receitas adaptadas ao perfil do usuário;
+ - Fornecer conselhos nutricionais personalizados;
+ - Responder a dúvidas gerais e específicas sobre nutrição;
+ - Manter conversas contextuais não relacionadas à nutrição;
+- Elaboração dos prompts e fluxos de comunicação dos agentes, assegurando coerência e naturalidade nas respostas;
+- Desenvolvimento de ferramentas (“tools”) para:
+ - Buscar o perfil do usuário logado no backend e personalizar as respostas da IA;
+ - Salvar os planos alimentares gerados no backend em formato JSON;
+- Implementação de memória contextual, utilizando o DatabaseSessionService para manter o histórico das conversas e aprimorar a experiência do usuário;
+- Documentação técnica completa do processo de instalação, configuração e uso da IA.
+
+#### Hard Skills
+Durante esse projeto, desenvolvi e consolidei as seguintes competências técnicas:
+* Vue.js - Uso com ajuda;
+* Flask (Python) - Uso com autonomia;
+* Java e Spring Boot - Uso com ajuda;
+* Google ADK - Uso com autonomia;
+* Swagger - Uso com ajuda;
+* Jira, Teams e VSCode - Uso com autonomia;
 
 </br>
 </details>
