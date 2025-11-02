@@ -10,7 +10,7 @@ No final do ensino fundamental, eu ainda não tinha certeza sobre qual carreira 
 
 Foi então que decidi mudar de direção e comecei a pesquisar sobre os cursos disponíveis na Fatec. Percebi que Análise e Desenvolvimento de Sistemas se encaixava muito bem ao meu perfil: atenção aos detalhes, lógica e organização!
 
-Durante a faculdade, tenho me dedicado à área de desenvolvimento web, com foco em linguagens como JavaScript e TypeScript e tecnologias como React. Também tenho tido oportunidade de trabalhar com banco de dados MySQL e MongoDB, por exemplo, e explorar recursos de redes, incluindo AWS e Linux.
+Durante a faculdade, tenho me dedicado à área de desenvolvimento web, com foco em linguagens como JavaScript e TypeScript e tecnologias como React. Também tenho contato com banco de dados relacionais e não relacionais, como MySQL e MongoDB, por exemplo, e explorar recursos de redes, incluindo AWS e Linux. Mais recentemente, tive a oportunidade de desenvolver soluções com Inteligência Artificial, especialmente com Google ADK, aplicando conceitos modernos de integração e uso de agentes inteligentes.
 
 Tenho experiência prática em projetos utilizando metodologias ágeis Scrum e Kanban. Já atuei como Product Owner, Scrum Master e desenvolvedora (Dev Team), o que me proporcionou uma visão mais ampla e colaborativa dos processos de desenvolvimento.
 
@@ -43,9 +43,11 @@ Tenho grande interesse em desenvolvimento full-stack, área na qual venho focand
 ![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Google ADK](https://img.shields.io/badge/google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1C1C?style=for-the-badge&logo=expo&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
