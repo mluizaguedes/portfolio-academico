@@ -548,6 +548,10 @@ Esse projeto me proporcionou o desenvolvimento de diversas competências interpe
 
 > Quando surgiu a necessidade de definir quem trabalharia com a parte de IA, me voluntariei, mesmo sem experiência prévia. Essa decisão exigiu iniciativa, autonomia e disposição para sair da zona de conforto. Assumi a responsabilidade de estruturar o agente principal e a comunicação entre os múltiplos agentes, propondo soluções arquiteturais que tornaram o sistema mais escalável e inteligente. Além disso, compartilhei com o time o que aprendi, explicando como funcionavam os prompts, fluxos e ferramentas da IA, garantindo alinhamento técnico entre todos.
 
+- Proatividade e comunicação com o cliente
+
+> Durante a apresentação da segunda sprint, o Product Owner teve um imprevisto e não pôde apresentar a entrega ao cliente. Me coloquei à disposição para conduzir a apresentação, explicando o funcionamento do sistema e os resultados obtidos. Ouvi atentamente todo o feedback e respondi dúvidas quando possível. Essa atitude demonstrou iniciativa, responsabilidade e habilidade em se comunicar de forma clara e profissional com o cliente, mesmo fora das minhas funções habituais.
+
 - Responsabilidade e resiliência diante de desafios técnicos
 
 > Durante o desenvolvimento, enfrentei dificuldades com a integração da IA ao frontend. Foram dias desafiadores tentando fazer a comunicação funcionar corretamente. Ainda assim, mantive o comprometimento com a entrega e busquei ajuda além da equipe: pedi apoio a uma amiga da área de TI, e juntas investigamos possíveis soluções. Combinei o que aprendemos com minhas próprias pesquisas e percebi que a questão não era complexa — bastava substituir o uso do FastAPI por Flask, uma tecnologia mais simples e adequada ao contexto. Essa virada de chave só foi possível porque mantive a calma, analisei o problema com lógica e persistência, entregando o sistema funcionando dentro do prazo.
