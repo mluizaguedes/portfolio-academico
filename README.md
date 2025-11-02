@@ -536,7 +536,7 @@ Durante esse projeto, desenvolvi e consolidei as seguintes competências técnic
 * Jira, Teams e VSCode - Uso com autonomia;
 
 #### Soft Skills 
-Esse projeto me proporcionou o desenvolvimento de diversas competências interpessoais e profissionais, especialmente curiosidade, proatividade, responsabilidade e colaboração em equipe.
+Esse projeto me proporcionou a oportunidade de desenvolver diversas competências interpessoais essenciais, com destaque para curiosidade, proatividade, responsabilidade, colaboração e comunicação.
 
 </br>
 
@@ -544,7 +544,7 @@ Esse projeto me proporcionou o desenvolvimento de diversas competências interpe
 
 > Desde antes da primeira sprint, movida pela curiosidade, busquei compreender como funcionavam os agentes de IA e sua comunicação com backends e APIs. Realizei uma imersão da Alura sobre agentes inteligentes e li detalhadamente a documentação do Google ADK para entender sua arquitetura e limitações. Esses estudos prévios me deram base para contribuir desde o início do projeto com ideias técnicas mais maduras, acelerando o desenvolvimento da camada inteligente do sistema.
 
-- Proatividade e autonomia técnica
+- Proatividade e autonomia
 
 > Quando surgiu a necessidade de definir quem trabalharia com a parte de IA, me voluntariei, mesmo sem experiência prévia. Essa decisão exigiu iniciativa, autonomia e disposição para sair da zona de conforto. Assumi a responsabilidade de estruturar o agente principal e a comunicação entre os múltiplos agentes, propondo soluções arquiteturais que tornaram o sistema mais escalável e inteligente. Além disso, compartilhei com o time o que aprendi, explicando como funcionavam os prompts, fluxos e ferramentas da IA, garantindo alinhamento técnico entre todos.
 
@@ -552,7 +552,7 @@ Esse projeto me proporcionou o desenvolvimento de diversas competências interpe
 
 > Durante a apresentação da segunda sprint, o Product Owner teve um imprevisto e não pôde apresentar a entrega ao cliente. Me coloquei à disposição para conduzir a apresentação, explicando o funcionamento do sistema e os resultados obtidos. Ouvi atentamente todo o feedback e respondi dúvidas quando possível. Essa atitude demonstrou iniciativa, responsabilidade e habilidade em se comunicar de forma clara e profissional com o cliente, mesmo fora das minhas funções habituais.
 
-- Responsabilidade e resiliência diante de desafios técnicos
+- Responsabilidade e resiliência
 
 > Durante o desenvolvimento, enfrentei dificuldades com a integração da IA ao frontend. Foram dias desafiadores tentando fazer a comunicação funcionar corretamente. Ainda assim, mantive o comprometimento com a entrega e busquei ajuda além da equipe: pedi apoio a uma amiga da área de TI, e juntas investigamos possíveis soluções. Combinei o que aprendemos com minhas próprias pesquisas e percebi que a questão não era complexa — bastava substituir o uso do FastAPI por Flask, uma tecnologia mais simples e adequada ao contexto. Essa virada de chave só foi possível porque mantive a calma, analisei o problema com lógica e persistência, entregando o sistema funcionando dentro do prazo.
 
