@@ -487,11 +487,11 @@ Esse projeto me proporcionou a oportunidade de desenvolver várias competências
 
 </br>
 
-Esse projeto foi desenvolvido no sexto semestre do curso, em parceria com a Xertica, uma empresa especializada em soluções tecnológicas em nuvem e inteligência artificial.
+Esse projeto foi desenvolvido no sexto semestre do curso, em parceria com a Xertica, uma empresa especializada em soluções em nuvem, inteligência artificial e transformação digital.
 
-O desafio surgiu a partir da dificuldade e do alto custo do acesso a orientações nutricionais individualizadas. A proposta era unir IA generativa e supervisão profissional (modelo Human-in-the-Loop) para oferecer planos alimentares e recomendações de saúde personalizadas.
+O desafio surgiu a partir da dificuldade e do alto custo do acesso a orientações nutricionais personalizadas. Muitas pessoas não conseguem manter acompanhamento com um nutricionista por limitações financeiras ou logísticas, o que resulta em planos alimentares genéricos e pouco eficazes.
 
-Solução: desenvolvemos o NutriMind, uma plataforma inteligente que realiza uma anamnese interativa com o usuário e gera planos alimentares personalizados, receitas, conselhos nutricionais e informações sobre alimentos. O sistema utiliza múltiplos agentes especializados interconectados, garantindo precisão, contexto e respostas contextualizadas ao perfil do usuário.
+Solução: desenvolvemos o NutriMind, uma plataforma inteligente que combina IA generativa e supervisão profissional (modelo Human-in-the-Loop) para gerar planos alimentares personalizados, recomendações de saúde, receitas e informações nutricionais detalhadas. O sistema realiza uma anamnese interativa com o usuário e utiliza múltiplos agentes inteligentes integrados, garantindo precisão, personalização e contextualização das respostas conforme o perfil de cada pessoa.
 
 [Repositório GitHub - NutriMind-Xertica](https://github.com/Equipe-Meta-Code/NutriMind-Xertica) 
 
@@ -507,24 +507,24 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **📋 Jira, 💬 Teams e 🔵 VSCode:** Ferramentas utilizadas para gestão ágil, comunicação e desenvolvimento colaborativo.
 
 #### Contribuições Pessoais
-Atuei como desenvolvedora full-stack e engenheira de IA, responsável por projetar e integrar a camada inteligente da aplicação, além de conectar o frontend e o backend.
+Atuei como desenvolvedora full-stack e engenheira de IA, sendo responsável por projetar, desenvolver e integrar a camada inteligente da aplicação — principal diferencial do projeto.
 
 **Principais contribuições técnicas:**
 - Desenvolvimento da interface do chat em Vue.js, exibindo as interações do usuário com o agente de IA conforme o design criado no Figma;
 - Integração completa do frontend com o backend em Flask, garantindo comunicação em tempo real entre o usuário e os agentes;
-- Desenho da arquitetura do agente e do sistema, evoluindo o modelo inicial de single agent para uma arquitetura multiagente;
+- Desenho da arquitetura da IA e do sistema, evoluindo o modelo inicial de single agent para uma arquitetura multiagente mais escalável e organizada;
 - Criação do Root Agent e de seis agentes especialistas, responsáveis por:
  - Gerar e salvar planos alimentares personalizados;
  - Criar receitas adaptadas ao perfil do usuário;
  - Fornecer conselhos nutricionais personalizados;
  - Responder a dúvidas gerais e específicas sobre nutrição;
  - Manter conversas contextuais não relacionadas à nutrição;
-- Elaboração dos prompts e fluxos de comunicação dos agentes, assegurando coerência e naturalidade nas respostas;
-- Desenvolvimento de ferramentas (“tools”) para:
- - Buscar o perfil do usuário logado no backend e personalizar as respostas da IA;
- - Salvar os planos alimentares gerados no backend em formato JSON;
-- Implementação de memória contextual, utilizando o DatabaseSessionService para manter o histórico das conversas e aprimorar a experiência do usuário;
-- Documentação técnica completa do processo de instalação, configuração e uso da IA.
+- Escrita dos prompts e fluxos de comunicação de cada agente, garantindo coerência, clareza e naturalidade nas respostas da IA;
+- Criação de ferramentas personalizadas ("tools"):
+ - Uma para buscar o perfil do usuário logado no backend e personalizar as respostas dos agentes;
+ - Outra para salvar os planos alimentares gerados pela IA no backend em formato JSON;
+- Implementação da memória contextual com o uso do DatabaseSessionService, possibilitando que os agentes lembrassem do histórico das conversas;
+- Documentação técnica detalhada sobre a instalação, configuração e funcionamento da IA, facilitando o uso e manutenção por outros desenvolvedores.
 
 #### Hard Skills
 Durante esse projeto, desenvolvi e consolidei as seguintes competências técnicas:
@@ -535,5 +535,33 @@ Durante esse projeto, desenvolvi e consolidei as seguintes competências técnic
 * Swagger - Uso com ajuda;
 * Jira, Teams e VSCode - Uso com autonomia;
 
+#### Soft Skills 
+Esse projeto me proporcionou o desenvolvimento de diversas competências interpessoais e profissionais, especialmente curiosidade, proatividade, responsabilidade e colaboração em equipe.
+
 </br>
+
+- Curiosidade e aprendizado contínuo
+
+> Desde antes da primeira sprint, movida pela curiosidade, busquei compreender como funcionavam os agentes de IA e sua comunicação com backends e APIs. Realizei uma imersão da Alura sobre agentes inteligentes e li detalhadamente a documentação do Google ADK para entender sua arquitetura e limitações. Esses estudos prévios me deram base para contribuir desde o início do projeto com ideias técnicas mais maduras, acelerando o desenvolvimento da camada inteligente do sistema.
+
+- Proatividade e autonomia técnica
+
+> Quando surgiu a necessidade de definir quem trabalharia com a parte de IA, me voluntariei, mesmo sem experiência prévia. Essa decisão exigiu iniciativa, autonomia e disposição para sair da zona de conforto. Assumi a responsabilidade de estruturar o agente principal e a comunicação entre os múltiplos agentes, propondo soluções arquiteturais que tornaram o sistema mais escalável e inteligente. Além disso, compartilhei com o time o que aprendi, explicando como funcionavam os prompts, fluxos e ferramentas da IA, garantindo alinhamento técnico entre todos.
+
+- Responsabilidade e resiliência diante de desafios técnicos
+
+> Durante o desenvolvimento, enfrentei dificuldades com a integração da IA ao frontend. Foram dias desafiadores tentando fazer a comunicação funcionar corretamente. Ainda assim, mantive o comprometimento com a entrega e busquei ajuda além da equipe: pedi apoio a uma amiga da área de TI, e juntas investigamos possíveis soluções. Combinei o que aprendemos com minhas próprias pesquisas e percebi que a questão não era complexa — bastava substituir o uso do FastAPI por Flask, uma tecnologia mais simples e adequada ao contexto. Essa virada de chave só foi possível porque mantive a calma, analisei o problema com lógica e persistência, entregando o sistema funcionando dentro do prazo.
+
+- Colaboração e comunicação com o time
+
+> Como a camada de IA era uma parte técnica mais complexa, a equipe percebeu que alguns colegas não tinham total familiaridade com o código. Para facilitar o entendimento coletivo e garantir continuidade, gravei junto com outro colega um vídeo explicativo detalhando toda a estrutura da IA, a arquitetura multiagente e as principais funções implementadas. Essa atitude reforçou a transparência do trabalho, fortaleceu a comunicação interna e ajudou a equipe a compreender melhor o sistema, mesmo sem experiência prévia com inteligência artificial.
+
+- Organização e clareza na entrega técnica
+
+> Mantive meu código bem estruturado, com comentários explicativos e separação lógica entre as partes da aplicação. Documentei a instalação e o funcionamento da IA no repositório GitHub para que outros desenvolvedores pudessem compreender e replicar o processo facilmente. Essa preocupação com a clareza e manutenção futura demonstrou não apenas cuidado técnico, mas também visão colaborativa e profissionalismo.
+
+#### Vídeo do projeto
+
+</br>
+
 </details>
