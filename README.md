@@ -25,7 +25,7 @@ Atualmente, busco meu primeiro emprego na área da tecnologia. Acredito que tenh
 
 ## Meus Principais Conhecimentos
 
-Tenho grande interesse em desenvolvimento full-stack, área na qual venho focando a maior parte do meu tempo. Além disso, também tenho bastante curiosidade pela área de segurança da informação. Entre meus conhecimentos, os que mais se destacam são:
+Tenho grande interesse em desenvolvimento full-stack, área na qual venho focando a maior parte do meu tempo. Além disso, também tenho bastante curiosidade pelas áreas de segurança da informação e inteligência artificial. Entre meus conhecimentos, os que mais se destacam são:
 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
