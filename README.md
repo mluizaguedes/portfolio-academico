@@ -10,7 +10,7 @@ No final do ensino fundamental, eu ainda não tinha certeza sobre qual carreira 
 
 Foi então que decidi mudar de direção e comecei a pesquisar sobre os cursos disponíveis na Fatec. Percebi que Análise e Desenvolvimento de Sistemas se encaixava muito bem ao meu perfil: atenção aos detalhes, lógica e organização!
 
-Durante a faculdade, tenho me dedicado à área de desenvolvimento web, com foco em linguagens como JavaScript e TypeScript e tecnologias como React. Também tenho tido contato com banco de dados relacionais e não relacionais, como MySQL e MongoDB, e com recursos de infraestrutura, como AWS e Linux. Mais recentemente, tive a oportunidade de trabalhar com Inteligência Artificial, utilizando o Google ADK e aplicando conceitos modernos de integração e uso de agentes inteligentes.
+Durante a faculdade, tenho me dedicado à área de desenvolvimento web, com foco nas linguagens JavaScript e TypeScript e tecnologias como React. Também tenho tido contato com banco de dados relacionais e não relacionais, como MySQL e MongoDB, e com recursos de infraestrutura, como AWS e Linux. Mais recentemente, tive a oportunidade de trabalhar com Inteligência Artificial, utilizando o Google ADK e aplicando conceitos modernos com agentes inteligentes.
 
 Tenho experiência prática em projetos utilizando metodologias ágeis Scrum e Kanban. Já atuei como Product Owner, Scrum Master e desenvolvedora (Dev Team), o que me proporcionou uma visão mais ampla e colaborativa dos processos de desenvolvimento.
 
