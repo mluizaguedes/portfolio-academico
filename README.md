@@ -503,7 +503,9 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **🐍 Python:** Desenvolvimento do backend responsável pela lógica do agente de IA;
 * **🧪 Flask:** Integração entre o frontend e o backend do agente de IA, viabilizando a troca de mensagens e dados;
 * **☕ Java & 🌱 Spring Boot:** Implementação do backend principal da aplicação, responsável pela gestão de usuários e dados;
+* **⚙️ Maven:** Ferramenta de automação e gerenciamento de dependências do projeto Java, facilitando o build e a integração contínua;
 * **🔷 Google ADK:** Implementação e orquestração dos múltiplos agentes inteligentes;
+* **🧠 LangChain:** Utilizado no módulo de RAG (Retrieval-Augmented Generation) para aprimorar as respostas dos agentes de IA por meio da recuperação e contextualização de informações relevantes;
 * **📘 Swagger:** Documentação da API para facilitar o entendimento e integração entre os times;
 * **🖼️ Figma:** Prototipação e referência visual das interfaces;
 * **📋 Jira, 💬 Teams e 🔵 VSCode:** Ferramentas utilizadas para gestão ágil, comunicação e desenvolvimento colaborativo.
