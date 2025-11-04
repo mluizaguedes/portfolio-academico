@@ -536,6 +536,7 @@ Durante esse projeto, desenvolvi e consolidei as seguintes competências técnic
 * Vue.js - Uso com ajuda;
 * Flask (Python) - Uso com autonomia;
 * Java e Spring Boot - Uso com ajuda;
+* PostgreSQL - Uso com ajuda;
 * Google ADK - Uso com autonomia;
 * Swagger - Uso com ajuda;
 * Jira, Teams e VSCode - Uso com autonomia;
