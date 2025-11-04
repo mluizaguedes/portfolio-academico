@@ -110,7 +110,7 @@ Entre minhas principais entregas, estão:
  
 #### Hard Skills 
 Durante esse projeto, desenvolvi e consolidei habilidades técnicas como:
-* Python e Flask - Uso com ajuda;
+* Python e Flask - Uso com autonomia;
 * JavaScript - Uso com autonomia.
 * Bootstrap - Uso com autonomia;
 * HTML e CSS - Uso com autonomia.
@@ -441,12 +441,12 @@ Durante esse projeto, desenvolvi e consolidei as seguintes competências técnic
 * Typescript - Uso com autonomia; 
 * React e React Native - Uso com autonomia;
 * NodeJS - Uso com autonomia;
-* Postman - Uso com ajuda;
+* Postman - Uso com autonomia;
 * MongoDB - Uso com autonomia;
 * MySQL - Uso com ajuda;
 * Android e Android Studio - Uso com ajuda;
 * Expo - Uso com autonomia;
-* Jira - Uso com ajuda;
+* Jira - Uso com autonomia;
 * Slack - Uso com autonomia;
 * Fork - Uso com ajuda.
 
