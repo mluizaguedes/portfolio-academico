@@ -503,6 +503,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **☕ Java & 🌱 Spring Boot:** Implementação do backend principal da aplicação, responsável pela gestão de usuários e dados;
 * **⚙️ Maven:** Ferramenta de automação e gerenciamento de dependências do projeto Java, facilitando o build e a integração contínua;
 * **🔷 Google ADK:** Implementação e orquestração dos múltiplos agentes inteligentes;
+* **🤖 Gemini:** Modelo de linguagem avançado do Google, utilizado para compreensão e geração de respostas contextuais nos agentes de IA;
 * **🧠 LangChain:** Utilizado no módulo de RAG (Retrieval-Augmented Generation) para aprimorar as respostas dos agentes de IA por meio da recuperação e contextualização de informações relevantes;
 * **📘 Swagger:** Documentação da API para facilitar o entendimento e integração entre os times;
 * **🖼️ Figma:** Prototipação e referência visual das interfaces;
