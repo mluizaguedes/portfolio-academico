@@ -505,6 +505,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **🔷 Google ADK:** Implementação e orquestração dos múltiplos agentes inteligentes;
 * **🤖 Gemini:** Modelo de linguagem avançado do Google, utilizado para compreensão e geração de respostas contextuais nos agentes de IA;
 * **🧠 LangChain:** Utilizado no módulo de RAG (Retrieval-Augmented Generation) para aprimorar as respostas dos agentes de IA por meio da recuperação e contextualização de informações relevantes;
+* **🧬 Chroma:** Banco de vetores usado para armazenamento e busca eficiente de embeddings no módulo de RAG, garantindo respostas mais precisas e contextualizadas;
 * **📘 Swagger:** Documentação da API para facilitar o entendimento e integração entre os times;
 * **🖼️ Figma:** Prototipação e referência visual das interfaces;
 * **📋 Jira, 💬 Teams e 🔵 VSCode:** Ferramentas utilizadas para gestão ágil, comunicação e desenvolvimento colaborativo.
