@@ -502,6 +502,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
 * **🧪 Flask:** Integração entre o frontend e o backend do agente de IA, viabilizando a troca de mensagens e dados;
 * **☕ Java & 🌱 Spring Boot:** Implementação do backend principal da aplicação, responsável pela gestão de usuários e dados;
 * **⚙️ Maven:** Ferramenta de automação e gerenciamento de dependências do projeto Java, facilitando o build e a integração contínua;
+* **🐘 PostgreSQL:** Banco de dados relacional utilizado para armazenar e gerenciar as informações estruturadas do sistema, garantindo segurança e eficiência nas consultas;
 * **🔷 Google ADK:** Implementação e orquestração dos múltiplos agentes inteligentes;
 * **🤖 Gemini:** Modelo de linguagem avançado do Google, utilizado para compreensão e geração de respostas contextuais nos agentes de IA;
 * **🧠 LangChain:** Utilizado no módulo de RAG (Retrieval-Augmented Generation) para aprimorar as respostas dos agentes de IA por meio da recuperação e contextualização de informações relevantes;
